@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "US"
+# locale                   : "US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Francis / Site Title"
 title_separator          : "My research interest is Bio-inspired Optics"
