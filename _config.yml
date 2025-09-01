@@ -10,7 +10,7 @@
 # locale                   : "US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "My research interest is Bio-inspired Optics"
-title_separator          : "My research interest is Bio-inspired Optics"
+title_separator          : "Graduate student"
 name                     : &name "Francis"
 description              : &description "personal description"
 url                      : "https://fhong10.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
