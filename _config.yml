@@ -9,7 +9,7 @@
 # Basic Site Settings
 # locale                   : "US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "My research interest is Bio-inspired Optics"
+title                    : "Optics simulation"
 title_separator          : "Graduate student"
 name                     : &name "Francis"
 description              : &description "personal description"
@@ -23,12 +23,12 @@ repository               : "Fhong10/flhong03.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Francis Hong"
+  # pronouns         : # example: "she/her"  
+  bio              : "My research interest is Bio-inspired Optics"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  # employer         : "Red Brick University"
+  uri              : "https://fhong10.github.io"
   email            : "none@example.org" 
 
   # Academic websites
