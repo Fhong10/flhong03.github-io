@@ -9,9 +9,9 @@
 # Basic Site Settings
 # locale                   : "US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Optics simulation"
+title                    : "Optics Researcher"
 title_separator          : "Graduate student"
-name                     : &name "Francis"
+name                     : &name "Francis Hong"
 description              : &description "personal description"
 url                      : "https://fhong10.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/flhong03.github-io" # the subpath of your site, e.g. "/blog"
@@ -25,21 +25,21 @@ author:
   avatar           : "profile.jpg"
   name             : "Francis Hong"
   # pronouns         : # example: "she/her"  
-  bio              : "My research interest is Bio-inspired Optics"
-  location         : "Earth"
+  bio              : "Master's student<br>Department of Materials Science & Engineering<br>UIUC"
+  # location         : "Earth"
   # employer         : "Red Brick University"
   uri              : "https://fhong10.github.io"
-  email            : "none@example.org" 
+  email            : "flhong2@illinois.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
