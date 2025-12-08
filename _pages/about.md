@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Master's student in Materials Science and Engineering in the Department at the University of Illinois at Urbana-Champaign. My advisor is Yuecheng Peter Zhou.
 
-My research centers on the reflectivity simulation of multi-layered polymer device. I use the mathematic tool such as optical TMM(Transfer Matrix Method) to simulate reflectivity and reflectivity over delta reflectivity. I utilize s-/p- polarized lights to model reflection in the devices to predict responses to neural signals. 
+My research centers on the reflectivity simulation of multi-layered polymer device. I use the mathematic tool such as optical TMM(Transfer Matrix Method) to simulate reflectivity and reflectivity over delta reflectivity. I utilize s-/p- polarized lights to model reflection in the devices to predict responses to neural signals.
 
 I received my bachelor's degree in Materials Science and Engineering from Yonsei University in 2019, and I pursued the second bachelor's degree in Mechanical Engineering but I didn't complete it. I took one year of coursework in mechanical engineering and enough course to declare enough to minor in physics. 
 
