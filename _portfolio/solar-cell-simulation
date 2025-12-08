@@ -1,0 +1,12 @@
+---
+title : "validation of TMM Code: Solar Cell Reflectivity"
+excerpy: "Benchmarking my Python Transfer Matrix Method(TMM)"
+collection: portfolio
+---
+
+In my research, I utilized the Transfer Matrix Method to simulate optical properties of multi-layered devices.
+I calculated the reflectivity of a standard solar cell. 
+
+![Reflectivity Graph](/images/solar_cell.png)
+
+*Figure 1: calculated reflectivity (blue line) vs Standard reference (red dots).*
