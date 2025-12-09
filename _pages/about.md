@@ -17,12 +17,12 @@ Simulation
 ======
 <h2>Simulation Skills: TMM & Optical Physics</h2>
 <p>
-  I am currently working on verifying transfer matrix algorithms for solar cell optimization. 
+  I am currently working on verifying transfer matrix algorithms for multi-layered devices. 
   Click the graph below to read the full validation case study.
 </p>
 
 <a href="/validation-dbr/">
-  <img src="/images/561nm 658nm.jpg" width="600" alt="Reflectivity Simulation Graph">
+  <img src="/images/561nm_658nm.png" width="600" alt="Reflectivity Simulation Graph">
 </a>
 
 <p>
