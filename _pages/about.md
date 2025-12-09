@@ -22,7 +22,7 @@ Simulation
 </p>
 
 <a href="/validation-dbr/">
-  <img src="/images/561nm 658nm.png" width="600" alt="Reflectivity Simulation Graph">
+  <img src="/images/561nm 658nm.jpg" width="600" alt="Reflectivity Simulation Graph">
 </a>
 
 <p>
