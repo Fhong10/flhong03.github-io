@@ -16,7 +16,7 @@ I received my bachelor's degree in Materials Science and Engineering from Yonsei
 Simulation
 ======
 ## Simulation Skills: TMM & Optical Physics
-I am currently working on verifying transfer matrix algorithms for solar cell optimization.
+I am currently working on verifying transfer matrix algorithms for reflectivity optimization.
 
 ![Reflectivity Simulation](/images/561nm_658nm.png)
 
