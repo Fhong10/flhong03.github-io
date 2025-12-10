@@ -15,13 +15,35 @@ I received my bachelor's degree in Materials Science and Engineering from Yonsei
 
 Simulation
 ======
-## Simulation Skills: TMM & Optical Physics
-I am currently working on verifying transfer matrix algorithms for reflectivity optimization.
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
+  
+  <div style="width: 30%; padding-right: 15px;">
+    <a href="/validation-dbr/">
+      <img src="/images/561nm_658nm.png" alt="TMM Simulation Graph" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+    </a>
+  </div>
 
-![Reflectivity Simulation](/images/561nm_658nm.png)
+  <div style="width: 70%;">
+    <strong style="font-size: 18px;">Algorithm Validation: Multilayer DBR</strong><br>
+    
+    <p style="margin-top: 5px; margin-bottom: 5px; font-size: 15px;">
+      Benchmarking my Python Transfer Matrix Method (TMM) solver against standard literature. I reproduced the reflectivity stopband of a periodic structure from Hecht's <em>Optics</em> (5th Ed.) to verify simulation accuracy.
+    </p>
+    
+    <a href="/validation-dbr/" style="font-weight: bold; text-decoration: none; color: #0056b3;">[Read Case Study]</a> 
+    / 
+    <a href="/images/561nm_658nm.png" style="text-decoration: none; color: #555;">[View Graph]</a>
+  </div>
 
-[>> Click here to read the full Algorithm Validation Report](/validation-dbr/)
+</div>
 
+<br> ```
+
+### Key Changes I Made for You:
+1.  **Image Path:** I used `/images/561nm_658nm.png`. (Make sure you renamed your file to remove the space, or use `%20` if you didn't!).
+2.  **Clickable Image:** I wrapped the image in `<a href="/validation-dbr/">` so clicking the picture takes them to your detailed page.
+3.  **Shadow:** I added `box-shadow` to the image (the gray blur around the edge) which makes it look like a professional paper or card, just like the example site.
+4.  **Font Size:** I adjusted the font size to `15px` to match the clean academic look of the example you provided.
 Getting started
 ======
 
