@@ -15,20 +15,12 @@ I received my bachelor's degree in Materials Science and Engineering from Yonsei
 
 Simulation
 ======
-<h2>Simulation Skills: TMM & Optical Physics</h2>
-<p>
-  I am currently working on verifying transfer matrix algorithms for multi-layered devices. 
-  Click the graph below to read the full validation case study.
-</p>
+## Simulation Skills: TMM & Optical Physics
+I am currently working on verifying transfer matrix algorithms for solar cell optimization.
 
-<a href="/validation-dbr/">
-  <img src="/images/561nm_658nm.png" width="600" alt="Reflectivity Simulation Graph">
-</a>
+![Reflectivity Simulation](/images/561nm_658nm.png)
 
-<p>
-  <a href="/validation-dbr/">[Read full explanation: Hecht Benchmark Project]</a>
-</p>
-
+[>> Click here to read the full Algorithm Validation Report](/validation-dbr/)
 
 Getting started
 ======
