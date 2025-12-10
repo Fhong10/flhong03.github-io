@@ -18,7 +18,6 @@ Simulation
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   
   <div style="width: 30%; padding-right: 15px;">
-    <a href="/validation-dbr/">
       <img src="/images/561nm_658nm.png" alt="TMM Simulation Graph" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     </a>
   </div>
