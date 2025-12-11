@@ -15,7 +15,7 @@ I received my bachelor's degree in Materials Science and Engineering from Yonsei
 
 Simulation
 ======
-<a href="{{ '/validation-dbr/' | relative_url }}" style="text-decoration: none;">
+<a href="https://example.com/your-target" target="_blank" rel="noopener" style="text-decoration: none;">
   <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
     <div style="width: 30%; padding-right: 8px;">
       <img src="{{ '/images/561nm_658nm.png' | relative_url }}"
