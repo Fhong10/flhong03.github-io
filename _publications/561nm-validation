@@ -21,10 +21,3 @@ The graph below shows my simulation output (Blue) compared to the theoretical ex
 
 ### Code Snippet
 Here is the core Python function used to generate this matrix:
-```python
-def calculate_transfer_matrix(n, d, wavelength):
-    # Python code validation
-    k = 2 * np.pi * n / wavelength
-    phase = k * d
-    M = [[np.cos(phase), ...]]
-    return M
