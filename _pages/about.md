@@ -15,16 +15,21 @@ I received my bachelor's degree in Materials Science and Engineering from Yonsei
 
 Simulation
 ======
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 30%; padding-right: 8px;">
-    <img src="/images/561nm_658nm.png" alt="TMM Simulation Graph" style="max-width: 100%; height: auto;">
+<a href="{{ '/validation-dbr/' | relative_url }}" style="text-decoration: none;">
+  <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+    <div style="width: 30%; padding-right: 8px;">
+      <img src="{{ '/images/561nm_658nm.png' | relative_url }}"
+           alt="TMM Simulation Graph"
+           style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+    </div>
+    <div style="width: 70%; font-size: 15px; color: #333;">
+      <strong>Algorithm Validation: Multilayer DBR</strong><br>
+      <em style="color: #4A4A4A;">Benchmarking my Python Transfer Matrix Method (TMM) solver against standard literature (Hecht's Optics, 5th Ed).</em><br>
+      <span style="font-weight: bold;">Validation Complete</span> / <span>Python Simulation</span> / <span>Benchmark Verified</span>
+    </div>
   </div>
-  <div style="width: 70%; font-size: 15px;">
-    <strong>Algorithm Validation: Multilayer DBR</strong><br>
-    <em style="color: #4A4A4A;">Benchmarking my Python Transfer Matrix Method (TMM) solver against standard literature (Hecht's Optics, 5th Ed).</em><br>
-    <span style="font-weight: bold;">Validation Complete</span> / <span>Python Simulation</span> / <span>Benchmark Verified</span>
-  </div>
-</div>
+</a>
+    
 ### Key Changes I Made for You:
 1.  **Image Path:** I used `/images/561nm_658nm.png`. (Make sure you renamed your file to remove the space, or use `%20` if you didn't!).
 2.  **Clickable Image:** I wrapped the image in `<a href="/validation-dbr/">` so clicking the picture takes them to your detailed page.
