@@ -8,6 +8,6 @@ permalink: /validation-dbr/
 In my research, I utilized the Transfer Matrix Method to simulate optical properties of multi-layered devices.
 I calculated the reflectivity of a standard solar cell. 
 
-![Reflectivity Graph](/images/561nm_658nm.png)
+![Reflectivity Graph](/images/561nm.png)
 
 *Figure 1: calculated reflectivity (blue line) vs Standard reference (red dots).*
