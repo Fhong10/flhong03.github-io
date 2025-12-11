@@ -19,7 +19,6 @@ Simulation
   
   <div style="width: 30%; padding-right: 15px;">
       <img src="/images/561nm_658nm.png" alt="TMM Simulation Graph" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
-    </a>
   </div>
 
   <div style="width: 70%;">
@@ -28,10 +27,6 @@ Simulation
     <p style="margin-top: 5px; margin-bottom: 5px; font-size: 15px;">
       Benchmarking my Python Transfer Matrix Method (TMM) solver against standard literature. I reproduced the reflectivity stopband of a periodic structure from Hecht's <em>Optics</em> (5th Ed.) to verify simulation accuracy.
     </p>
-    
-    <a href="/validation-dbr/" style="font-weight: bold; text-decoration: none; color: #0056b3;">[Read Case Study]</a> 
-    / 
-    <a href="/images/561nm_658nm.png" style="text-decoration: none; color: #555;">[View Graph]</a>
   </div>
 
 </div>
