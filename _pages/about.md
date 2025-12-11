@@ -20,7 +20,7 @@ Simulation
    style="text-decoration: none; color: inherit;">
   <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 16px; margin-bottom: 16px;">
     <div style="width: 30%; max-width: 260px;">
-      <img src="{{ '/images/561nm_658nm.png' | relative_url }}"
+      <img src="{{ '/images/561nm.png' | relative_url }}"
            alt="TMM Simulation Graph"
            style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     </div>
