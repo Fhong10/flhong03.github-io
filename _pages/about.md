@@ -15,15 +15,17 @@ I received my bachelor's degree in Materials Science and Engineering from Yonsei
 
 Simulation
 ======
-<a href="https://example.com/your-target" target="_blank" rel="noopener" style="text-decoration: none;">
-  <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-    <div style="width: 30%; padding-right: 8px;">
+
+<a href="{{ '/validation-dbr/' | relative_url }}"
+   style="text-decoration: none; color: inherit;">
+  <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 16px; margin-bottom: 16px;">
+    <div style="width: 30%; max-width: 260px;">
       <img src="{{ '/images/561nm_658nm.png' | relative_url }}"
            alt="TMM Simulation Graph"
            style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     </div>
     <div style="width: 70%; font-size: 15px; color: #333;">
-      <strong>Algorithm Validation: Multilayer DBR</strong><br>
+      <strong style="font-size: 20px;">Algorithm Validation: Multilayer DBR</strong><br>
       <em style="color: #4A4A4A;">Benchmarking my Python Transfer Matrix Method (TMM) solver against standard literature (Hecht's Optics, 5th Ed).</em><br>
       <span style="font-weight: bold;">Validation Complete</span> / <span>Python Simulation</span> / <span>Benchmark Verified</span>
     </div>
