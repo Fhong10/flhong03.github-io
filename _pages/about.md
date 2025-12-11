@@ -15,30 +15,43 @@ I received my bachelor's degree in Materials Science and Engineering from Yonsei
 
 Simulation
 ======
+Research
+------
 
-<a href="{{ '/validation-dbr/' | relative_url }}"
-   style="text-decoration: none; color: inherit;">
-  <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 16px; margin-bottom: 16px;">
-    <div style="width: 30%; max-width: 260px;">
-      <img src="{{ '/images/561nm.png' | relative_url }}"
-           alt="TMM Simulation Graph"
-           style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
-    </div>
-    <div style="width: 70%; font-size: 15px; color: #333;">
-      <strong style="font-size: 20px;">Algorithm Validation: Multilayer DBR</strong><br>
-      <em style="color: #4A4A4A;">Benchmarking my Python Transfer Matrix Method (TMM) solver against standard literature (Hecht's Optics, 5th Ed).</em><br>
-      <span style="font-weight: bold;">Validation Complete</span> / <span>Python Simulation</span> / <span>Benchmark Verified</span>
-    </div>
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
+  <div style="width: 30%; padding-right: 15px;">
+    <img src="/images/561nm.png" alt="561nm Graph" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
-</a>
-    
-### Key Changes I Made for You:
-1.  **Image Path:** I used `/images/561nm_658nm.png`. (Make sure you renamed your file to remove the space, or use `%20` if you didn't!).
-2.  **Clickable Image:** I wrapped the image in `<a href="/validation-dbr/">` so clicking the picture takes them to your detailed page.
-3.  **Shadow:** I added `box-shadow` to the image (the gray blur around the edge) which makes it look like a professional paper or card, just like the example site.
-4.  **Font Size:** I adjusted the font size to `15px` to match the clean academic look of the example you provided.
-Getting started
-======
+  <div style="width: 70%; font-size: 15px;">
+    <strong>Algorithm Validation: Multilayer DBR</strong><br>
+    <em style="color: #4A4A4A;">Benchmarking transfer matrix method (TMM) code against Hecht's Optics. Reproduced reflectivity stopband for 561nm target.</em><br>
+    <span style="font-weight: bold;">Validation Complete</span> / <span>Python Simulation</span>
+  </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
+  <div style="width: 30%; padding-right: 15px;">
+    <img src="/images/Absorbance2.png" alt="Absorbance Graph" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+  </div>
+  <div style="width: 70%; font-size: 15px;">
+    <strong>Optical Absorption Analysis</strong><br>
+    <em style="color: #4A4A4A;">Study of material absorbance properties across the visible spectrum.</em><br>
+    <span style="font-weight: bold;">Data Analysis</span> / <span>Material Science</span>
+  </div>
+</div>
+
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
+  <div style="width: 30%; padding-right: 15px;">
+    <img src="/images/semiconductor.png" alt="Semiconductor Structure" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+  </div>
+  <div style="width: 70%; font-size: 15px;">
+    <strong>Semiconductor Device Physics</strong><br>
+    <em style="color: #4A4A4A;">Simulation of carrier transport and junction behavior in solar cell structures.</em><br>
+    <span style="font-weight: bold;">Device Simulation</span> / <span>Solar Cells</span>
+  </div>
+</div>
+
+<br>
 
 
 Site-wide configuration
