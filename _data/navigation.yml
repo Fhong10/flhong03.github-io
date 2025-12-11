@@ -11,12 +11,12 @@ main:
   #- title: "Research"
   #  url: /research/
   
-  - title: "Research"
-    url: /research/
+   - title: "Research"
+     url: /research/
   
     
-  - title: "CV"
-    url: /cv/
+   - title: "CV"
+     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
