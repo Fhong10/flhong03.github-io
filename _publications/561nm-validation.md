@@ -21,8 +21,8 @@ The graph below shows my simulation output (Blue) compared to the theoretical ex
      alt="561nm Validation Graph"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
-<img src="{{ '/images/userfriendlyinterface.png' | relative_url }}"
-     alt="User friendly interface"
+<img src="{{ '/images/Userfriendlyinterface.png' | relative_url }}"
+     alt="User interface"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
 <img src="{{ '/images/simulation.png' | relative_url }}"
