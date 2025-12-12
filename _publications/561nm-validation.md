@@ -22,7 +22,7 @@ The graph below shows my simulation output (Blue) compared to the theoretical ex
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
 <img src="{{ '/images/Userfriendlyinterface.png' | relative_url }}"
-     alt="User interface"
+     alt="Userfriendlyinterface"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
 <img src="{{ '/images/simulation.png' | relative_url }}"
