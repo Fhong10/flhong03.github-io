@@ -3,6 +3,7 @@ title: "Calculation of Complex Refractive Index"
 collection: publications
 permalink: /research/project-2/
 excerpt: "Detailed study of material absorbance properties across the visible spectrum."
+mathjax: true
 ---
 
 ## Motivation
