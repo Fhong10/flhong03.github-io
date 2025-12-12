@@ -12,12 +12,10 @@ To model reflectivity in multilayer device, refractive index is the important pa
 ### Calcalation
 I used UV-Vis spectroscopy to measure absorbance of PEDOT:PSS. Then I used the equations to solve extinction coefficients.
 
-Inline form: \( A = -\log_{10}\!\left(\dfrac{I_{\text{transmitted}}}{I_{\text{incident}}}\right) \)
-
-Display form:
 $$
 A = -\log_{10}\!\left(\dfrac{I_{\text{transmitted}}}{I_{\text{incident}}}\right)
 $$
+where \( I_{\text{incident}} \) is the intensity of light entering the PEDOT:PSS sample and \( I_{\text{transmitted}} \) is the intensity after passing through the sample. Absorbance is a **dimensionless** quantity. It is the base‑10 logarithm of the transmitted-to-incident intensity ratio.
 
 From absorbance to absorption coefficient \( \alpha \):
 $$
