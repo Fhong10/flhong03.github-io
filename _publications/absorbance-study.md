@@ -17,6 +17,11 @@ A = -\log_{10}\!\left(\dfrac{I_{\text{transmitted}}}{I_{\text{incident}}}\right)
 $$
 where \( I_{\text{incident}} \) is the intensity of light entering the PEDOT:PSS sample and \( I_{\text{transmitted}} \) is the intensity after passing through the sample. Absorbance is a **dimensionless** quantity. It is the base‑10 logarithm of the transmitted-to-incident intensity ratio.
 
+$$
+\log_{10}\!\left(\frac{I_0}{I}\right) = \frac{\ln\!\left(\frac{I_0}{I}\right)}{\ln 10} \quad\Rightarrow\quad
+\ln\!\left(\frac{I_0}{I}\right) = (\ln 10)\,A
+$$
+
 From absorbance to absorption coefficient \( \alpha \):
 $$
 \alpha = \dfrac{2.303\,A}{d}
