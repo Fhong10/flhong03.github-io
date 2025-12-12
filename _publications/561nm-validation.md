@@ -18,7 +18,7 @@ To verify the accuracy of my Transfer Matrix Method (TMM) simulation code, I rep
 The graph below shows my simulation output (Blue) compared to the theoretical expectation. The stopband width and reflectivity efficiency match perfectly.
 
 ![561nm Validation Graph]({{ '/images/561nm.png' | relative_url }})
-![Userfriendlyinterface]({{ '/images/user-friendly-interface.png' | relative_url }})
+![Userfriendlyinterface]({{ '/images/userfriendlyinterface.png' | relative_url }})
 ![Simulation]({{ '/images/simulation.png' | relative_url }})
 ![Comparison]({{ '/images/comparison.png' | relative_url }})
 
