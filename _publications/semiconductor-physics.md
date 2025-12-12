@@ -16,4 +16,7 @@ Using gole evaporator I laid gold circuit.
 ### Result
 
 
+<img src="{{ '/images/561nm.png' | relative_url }}"
+     alt="561nm Validation Graph"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
