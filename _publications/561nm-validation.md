@@ -2,8 +2,7 @@
 title: "Reflectivity Modeling of PEDOT:PSS Multilayer Devices Using Transfer Matrix Method"
 collection: publications
 permalink: /research/project-1/
-excerpt: "Benchmarking my Python TMM solver against standard textbook results."
-date: 2024-01-01
+excerpt: "Benchmarking my Python TMM solver against standardpaper."
 ---
 
 ## Motivation
