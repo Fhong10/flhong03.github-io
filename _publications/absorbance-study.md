@@ -16,3 +16,8 @@ Using experimental data, I plotted the absorbance spectrum to identify bandgap e
 
 ## Conclusion
 The material shows strong absorption in the UV-Blue region, tapering off towards the Red/IR, which is consistent with the bandgap energy of...
+
+<img src="{{ '/images/Absorbance2.png' | relative_url }}"
+     alt="Simulation"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
+
