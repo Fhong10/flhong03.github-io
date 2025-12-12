@@ -14,7 +14,7 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
 4. Using gole evaporator I laid gold circuit.
 
 ### Result
-
+## MoSe2/WS2 Heterostructure Device
 I made a van der Waals heterostructure with monolayer of MoSe2 and WS2 protected by Boron Nitride(hBN).
 
 <img src="{{ '/images/Mdevice.png' | relative_url }}"
@@ -24,6 +24,8 @@ I made a van der Waals heterostructure with monolayer of MoSe2 and WS2 protected
 We shone a laser on the device to excite electrons, creating excitons. By measuring reflectivity, they observed specific peaks that reveal the material's optical behavior.
 
 Moreover, by chaning the voltages at the top and bottom gates, we controlled the density of electrons and holes and shifted material's energy levels. Through this voltage manipulation and by observing changes in the laser spectrum, we were able to tune the band alignment(transitioning between Type I or Type II alignment) 
+
+## WSe2/WS2 Heterostructure Device
 
 <img src="{{ '/images/Wdevice.png' | relative_url }}"
      alt="Wdevice"
