@@ -22,22 +22,32 @@ Key parameters of the model:
 * Polarization-selective(TE/s-polarization, TM/p-polarization)
 * Two wavelengthes comparison(561nm, 658nm)
 
-The graph below shows my simulation output (Blue) compared to the theoretical expectation. The stopband width and reflectivity efficiency match perfectly.
+## Result
+
+Since what I have done is not published yet, I modeled reflectivity on previous published paper "Dual-Color Optical Recording of Bioelectric Potentials by Polymer Electrochromism". I used Fig.2(c) to match simulation and Fig.2C.
 
 <img src="{{ '/images/561nm.png' | relative_url }}"
      alt="561nm Validation Graph"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
+This is original Fig 2c in the paper. Dotted lines are experimental data and lines are theoretical graphs done by the author. I am going to match my simulation graph to lines in the diagram.
+
 <img src="{{ '/images/Userfriendlyinterface.png' | relative_url }}"
      alt="Userfriendlyinterface"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
+
+I made the script and used anaconda to run Python script. Before plotting the graph, I made this user interface to enter the parameters to plot the graphs.
 
 <img src="{{ '/images/simulation.png' | relative_url }}"
      alt="Simulation"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
+This is my theoretical graphs. Reflectivity versus incident angle using p-polarized light. Since there are two wavelenghts, there are two graphs generated.
+
 <img src="{{ '/images/comparison.png' | relative_url }}"
      alt="Comparison"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
-### Code Snippet
-Here is the core Python function used to generate this matrix:
+
+I matched two theoretical reflectivity graphs to experiemntal data(dotted lines) in the diagram. Those two align with each other well.
+
+
