@@ -17,10 +17,20 @@ To verify the accuracy of my Transfer Matrix Method (TMM) simulation code, I rep
 ### Results
 The graph below shows my simulation output (Blue) compared to the theoretical expectation. The stopband width and reflectivity efficiency match perfectly.
 
-![561nm Validation Graph]({{ '/images/561nm.png' | relative_url }})
-![Userfriendlyinterface]({{ '/images/userfriendlyinterface.png' | relative_url }})
-![Simulation]({{ '/images/simulation.png' | relative_url }})
-![Comparison]({{ '/images/comparison.png' | relative_url }})
+<img src="{{ '/images/561nm.png' | relative_url }}"
+     alt="561nm Validation Graph"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
+<img src="{{ '/images/userfriendlyinterface.png' | relative_url }}"
+     alt="User friendly interface"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
+
+<img src="{{ '/images/simulation.png' | relative_url }}"
+     alt="Simulation"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
+
+<img src="{{ '/images/comparison.png' | relative_url }}"
+     alt="Comparison"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 ### Code Snippet
 Here is the core Python function used to generate this matrix:
