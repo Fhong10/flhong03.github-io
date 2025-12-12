@@ -1,4 +1,4 @@
-<img width="129" height="54" alt="image" src="https://github.com/user-attachments/assets/91c92023-688f-4265-9862-8cc9d75d6d9c" />---
+
 title: "Two-Dimensional Heterostructural Device"
 collection: publications
 permalink: /research/project-3/
