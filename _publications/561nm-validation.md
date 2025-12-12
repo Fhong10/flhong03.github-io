@@ -1,13 +1,13 @@
 ---
-title: "Algorithm Validation: 561nm Target"
+title: "Reflectivity Modeling of PEDOT:PSS Multilayer Devices Using Transfer Matrix Method"
 collection: publications
 permalink: /research/project-1/
 excerpt: "Benchmarking my Python TMM solver against standard textbook results."
 date: 2024-01-01
 ---
 
-## Project Overview
-To verify the accuracy of my Transfer Matrix Method (TMM) simulation code, I reproduced a standard result from optical physics literature.
+## Motivation
+Neural recording requires resolving voltage changes as small as 10 µV. By modeling how applied voltage alters a material’s optical properties, the optimal conditions for detecting these weak bioelectric signals can be determined. Specifically, In particular, a larger change in reflectivity with respect to incident angle corresponds to higher optical sentivitivity. Motivated by this principle, I began by modeling angle-dependent reflectivity in multilayer devices under s- and p- polarized illumination. To achieve this, I developed a custom Python Transfer Matrix Method (TMM) solver.
 
 ### The Setup
 * **Target:** Distributed Bragg Reflector (DBR) designed for 561nm.
