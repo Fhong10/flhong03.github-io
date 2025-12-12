@@ -1,12 +1,15 @@
 ---
-title: "Semiconductor Device Physics"
+title: "Two-Dimensional Device"
 collection: publications
 permalink: /research/project-3/
-excerpt: "Simulation of carrier transport and junction behavior."
-date: 2024-03-01
+excerpt: "Fabrication of Heterostructural Devices."
 ---
 
-## Simulation Scope
+### Motivation
+
+
+
+## Process
 This project moves beyond simple optics to simulate the electrical properties of the device.
 
 ### Junction Behavior
