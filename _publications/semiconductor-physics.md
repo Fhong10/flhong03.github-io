@@ -21,8 +21,9 @@ I made a van der Waals heterostructure with monolayer of MoSe2 and WS2 protected
      alt="Mdevice"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
-We shined the laser on the device to excite electrons, creating excitons. By measuring reflectivity, they could see specific peaks, telling how the material behaves optically.
-Moreover, by chaning the voltages at top and bottom gate, we controlled density of electrons and holes and shift energy levels of materials. Through manipulation of voltage and observation of changes in laser spectrum, we can tune band alignment(shifting from Type 1 or Type 2 alignment) 
+We shone a laser on the device to excite electrons, creating excitons. By measuring reflectivity, they observed specific peaks that reveal the material's optical behavior.
+
+Moreover, by chaning the voltages at the top and bottom gates, we controlled the density of electrons and holes and shifted material's energy levels. Through this voltage manipulation and by observing changes in the laser spectrum, we were able to tune the band alignment(transitioning between Type I or Type II alignment) 
 
 <img src="{{ '/images/Wdevice.png' | relative_url }}"
      alt="Wdevice"
