@@ -1,13 +1,13 @@
 ---
-title: "Optical Absorbance Analysis"
+title: "Calculation of Complex Refractive Index"
 collection: publications
 permalink: /research/project-2/
 excerpt: "Detailed study of material absorbance properties across the visible spectrum."
 date: 2024-02-01
 ---
 
-## Objective
-This project analyzes the absorption coefficient ($\alpha$) of thin-film materials used in solar cell applications.
+## Motivation
+To model reflectivity in multilayer device, refractive index is the important parameter. Especially, refractive index comprises of real part and imaginary part (n+ik). I calculated imaginary part which is extinction coefficient.
 
 ### Data Analysis
 Using experimental data, I plotted the absorbance spectrum to identify bandgap edges.
