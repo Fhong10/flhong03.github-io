@@ -35,7 +35,7 @@ $$
 $$
 where d is film thickness.
 
-## Extinction coefficient \:
+# Extinction coefficient:
 $$
 k = \dfrac{\alpha \,\lambda}{4\pi}
 $$
