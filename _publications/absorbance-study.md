@@ -29,11 +29,11 @@ $$
 \ln\!\left(\frac{I_0}{I}\right) = (\ln 10)\,A
 $$
 
-From absorbance to absorption coefficient \( \alpha \):
+From absorbance to absorption coefficient:
 $$
 \alpha = \dfrac{2.303\,A}{d}
 $$
-where \ d \ is film thickness.
+where d is film thickness.
 
 ## Extinction coefficient \:
 $$
