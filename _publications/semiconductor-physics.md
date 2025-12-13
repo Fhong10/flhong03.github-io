@@ -17,9 +17,15 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
 ## MoSe2/WS2 Heterostructure Device
 I made a van der Waals heterostructure with monolayer of MoSe2 and WS2 protected by Boron Nitride(hBN).
 
-<img src="{{ '/images/Mdevice.png' | relative_url }}"
-     alt="Mdevice"
-     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="{{ '/images/Mdevice.png' | relative_url }}" alt="Mdevice"
+       style="max-width: 420px; width: 100%; height: auto; display: block;">
+  <img src="{{ '/images/Mdevice.png' | relative_url }}" alt="Mdevice"
+       style="max-width: 420px; width: 100%; height: auto; display: block;">
+</div>
+
+<img src="{{ '/images/Rpeak.png' | relative_url }}" alt="Rpeak"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 
 We shone a laser on the device to excite electrons, creating excitons. By measuring reflectivity, they observed specific peaks that reveal the material's optical behavior.
 
@@ -29,9 +35,15 @@ Moreover, by chaning the voltages at the top and bottom gates, we controlled the
 
 I built the similar stack using WS2 and WSe2 to study Terahertz Phonons(Ultra-high frequency sound waves)
 
-<img src="{{ '/images/Wdevice.png' | relative_url }}"
-     alt="Wdevice"
-     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="{{ '/images/Wdevice.png' | relative_url }}" alt="Wdevice"
+       style="max-width: 420px; width: 100%; height: auto; display: block;">
+  <img src="{{ '/images/Wdevice.png' | relative_url }}" alt="Wdevice"
+       style="max-width: 420px; width: 100%; height: auto; display: block;">
+</div>
+
+<img src="{{ '/images/Tetrasignal.png' | relative_url }}" alt="Tetrasignal"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 
 By applying the acoustic waves, we analyzed the behavior of inciden, reflected and trasmitted phonon pulses within the van der Waals heterostructure. This analysis helps us understand how the materials in the heterostructure influence the propagation and behavior of terahertz phonons.
 
