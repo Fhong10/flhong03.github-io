@@ -27,10 +27,15 @@ Moreover, by chaning the voltages at the top and bottom gates, we controlled the
 
 ## WSe2/WS2 Heterostructure Device
 
+I built the similar stack using WS2 and WSe2 to study Terahertz Phonons(ultra-high frequency sound waves)
+
 <img src="{{ '/images/Wdevice.png' | relative_url }}"
      alt="Wdevice"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
+By applying the acoustic waves, we analyzed the behavior of inciden, reflected and trasmitted phonon pulses within the van der Waals heterostructure. This analysis helps in understanding how the materials in the heterostructure influence the propagation and behavior of terahertz phonons.
+
+ 
 
 
 
