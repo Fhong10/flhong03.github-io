@@ -31,7 +31,7 @@ $$
 
 From absorbance to absorption coefficient:
 $$
-\alpha = \dfrac{2.303\,A}{d}
+\alpha = \dfrac{ln(10)\,A}{d}
 $$
 where d is film thickness.
 
