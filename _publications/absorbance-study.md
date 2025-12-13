@@ -25,7 +25,7 @@ $$
 where \( I_{\text{incident}} \) is the intensity of light entering the sample and \( I_{\text{transmitted}} \) is the intensity after passing through the sample. Absorbance is a dimensionless quantity. It is the base‑10 logarithm of the transmitted-to-incident intensity ratio.
 
 $$
-\log_{10}\!\left(\frac{I_0}{I}\right) = \frac{\ln\!\left(\frac{I_0}{I}\right)}{\ln 10} \quad\Rightarrow\quad
+A = \log_{10}\!\left(\frac{I_0}{I}\right) = \frac{\ln\!\left(\frac{I_0}{I}\right)}{\ln 10} \quad\Rightarrow\quad
 \ln\!\left(\frac{I_0}{I}\right) = (\ln 10)\,A
 $$
 
