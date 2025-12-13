@@ -22,7 +22,7 @@ Voltage- and wavelength- dependent spectra of absorption is measured like above 
 $$
 A = -\log_{10}\!\left(\dfrac{I_{\text{transmitted}}}{I_{\text{incident}}}\right)
 $$
-where \( I_{\text{incident}} \) is the intensity of light entering the sample and \( I_{\text{transmitted}} \) is the intensity after passing through the sample. Absorbance is a dimensionless quantity. It is the base‑10 logarithm of the transmitted-to-incident intensity ratio.
+here \( I_{\text{incident}} \) is the intensity of light entering the sample and \( I_{\text{transmitted}} \) is the intensity after passing through the sample. Absorbance is a dimensionless quantity. It is the base‑10 logarithm of the transmitted-to-incident intensity ratio.
 
 $$
 A = \log_{10}\!\left(\frac{I_0}{I}\right) = \frac{\ln\!\left(\frac{I_0}{I}\right)}{\ln 10} \quad\Rightarrow\quad
