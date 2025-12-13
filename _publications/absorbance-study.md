@@ -18,7 +18,7 @@ I used UV-Vis spectroscopy to measure absorbance of PEDOT:PSS. Absorbance spectr
 
 Voltage- and wavelength- dependent spectra of absorption is measured like above graph. This is the supplementary data in Figure S2. (a).
 
-# Beer-lambert law
+### Beer-lambert law
 $$
 A = -\log_{10}\!\left(\dfrac{I_{\text{transmitted}}}{I_{\text{incident}}}\right)
 $$
@@ -29,13 +29,15 @@ A = \log_{10}\!\left(\frac{I_0}{I}\right) = \frac{\ln\!\left(\frac{I_0}{I}\right
 \ln\!\left(\frac{I_0}{I}\right) = (\ln 10)\,A
 $$
 
-From absorbance to absorption coefficient:
+### From absorbance to absorption coefficient:
 $$
 \alpha = \dfrac{ln(10)\,A}{d}
 $$
 where d is film thickness.
 
-# Extinction coefficient:
+Since absorption coefficient is given, I can calculate extinction coefficient.
+
+### Extinction coefficient:
 $$
 k = \dfrac{\alpha \,\lambda}{4\pi}
 $$
