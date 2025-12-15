@@ -2,7 +2,7 @@
 title: "Calculation of Complex Refractive Index"
 collection: publications
 permalink: /research/project-2/
-excerpt: "Detailed study of material absorbance properties across the visible spectrum."
+excerpt: "Extraction of voltage- and wavelength- dependent optcial constants from UV-VIS absorbance for multilayer reflectivity modeling"
 mathjax: true
 ---
 
@@ -10,22 +10,18 @@ mathjax: true
 Because PEDOT:PSS exhibits voltage- dependent optical absorption, I extracted wavelength- and voltage resolved extinction coefficients rather than assuming a constant k, enabling physically meaningful reflectivity simulations under electrochromical modulation.
 
 ### Calcalation
-I used UV-Vis spectroscopy to measure absorbance of PEDOT:PSS. Absorbance spectra is measured. Then I used the equations to solve extinction coefficients.
+I used UV-Vis spectroscopy to measure absorbance of PEDOT:PSS. The absorbance spectra were obtained experimentally, and the extinction coefficient was then calculated using equations below.
 
 <img src="{{ '/images/Absorbance2.png' | relative_url }}"
      alt="Simulation"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
-Voltage- and wavelength- dependent spectra of absorption is measured like above graph. This is the supplementary data in Figure S2. (a).
+Voltage- and wavelength- dependent spectra of absorption was measured, as shown in the graph above. These data correspond to the supplementary information in Figure S2a of J. Am. Chem. Soc. 2022, 144, 51, 23505–23515
 
 ### Beer-lambert law
 $$
 A = -\log_{10}\!\left(\dfrac{I_{\text{transmitted}}}{I_{\text{incident}}}\right)
 $$
-Where:
-* \( A \) is the absorbance (dimensionless).
-* \( I_0 \) is the **incident intensity** (light entering the sample).
-* \( I \) is the **transmitted intensity** (light passing through).
 
 $$
 A = \log_{10}\!\left(\frac{I_0}{I}\right) = \frac{\ln\!\left(\frac{I_0}{I}\right)}{\ln 10} \quad\Rightarrow\quad
