@@ -7,7 +7,7 @@ mathjax: true
 ---
 
 ## Motivation
-To model reflectivity in multilayer device, refractive index is the important parameter. Especially, refractive index comprises of real part and imaginary part (n+ik). I calculated imaginary part which is extinction coefficient.
+Because PEDOT:PSS exhibits voltage- dependent optical absorption, I extracted wavelength- and voltage resolved extinction coefficients rather than assuming a constant k, enabling physically meaningful reflectivity simulations under electrochromical modulation.
 
 ### Calcalation
 I used UV-Vis spectroscopy to measure absorbance of PEDOT:PSS. Absorbance spectra is measured. Then I used the equations to solve extinction coefficients.
