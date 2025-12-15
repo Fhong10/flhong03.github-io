@@ -24,7 +24,6 @@ A = -\log_{10}\!\left(\dfrac{I_{\text{transmitted}}}{I_{\text{incident}}}\right)
 $$
 
 $$
-A = \log_{10}\!\left(\frac{I_0}{I}\right) = \frac{\ln\!\left(\frac{I_0}{I}\right)}{\ln 10} \quad\Rightarrow\quad
 \ln\!\left(\frac{I_0}{I}\right) = (\ln 10)\,A
 $$
 
