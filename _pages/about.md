@@ -75,7 +75,7 @@ Research
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 30%; padding-right: 15px;">
-    <img src="{{ '/images/semiconductor.png' | relative_url }}" alt="Semiconductor Structure"
+    <img src="{{ '/images/scimage.png' | relative_url }}" {{ =/images/scimage.png' | re
          style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
   <div style="width: 70%; font-size: 15px;">
