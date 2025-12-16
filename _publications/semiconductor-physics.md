@@ -17,6 +17,9 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
 ## MoSe2/WS2 Heterostructure Device
 I made a van der Waals heterostructure with monolayer of MoSe2 and WS2 protected by Boron Nitride(hBN).
 
+
+<img src="{{ '/images/scimage.png' | relative_url }}" alt="scimage"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 <img src="{{ '/images/Rpeak.png' | relative_url }}" alt="Rpeak"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 
