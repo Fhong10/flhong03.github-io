@@ -7,11 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Materials Science and Engineering in the Department at the University of Illinois at Urbana-Champaign. My advisor is Yuecheng Peter Zhou.
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 100px; padding-right: 10px;">
+    <img src="/images/uiuc_logo.png" alt="UIUC logo" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p>I am a Master's student in Materials Science and Engineering at the University of Illinois at Urbana-Champaign. My advisor is Yuecheng Peter Zhou.</p>
+  </div>
+</div>
 
-My research centers on the reflectivity simulation of multi-layered polymer device. I use the mathematic tool such as optical TMM(Transfer Matrix Method) to simulate reflectivity and reflectivity over delta reflectivity. I utilize s-/p- polarized lights to model reflection in the devices to predict responses to neural signals.
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 100px; padding-right: 10px;">
+    <img src="/images/reflectivity.png" alt="Reflectivity simulation" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p>My research centers on reflectivity simulation of multi-layered polymer devices. I use optical Transfer Matrix Method (TMM) to model reflectivity and delta-reflectivity, leveraging s-/p-polarized lights to predict device responses to neural signals.</p>
+  </div>
+</div>
 
-I received my bachelor's degree in Materials Science and Engineering from Yonsei University in 2019, and I pursued the second bachelor's degree in Mechanical Engineering but I didn't complete it. I took one year of coursework in mechanical engineering and enough course to declare enough to minor in physics. 
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 100px; padding-right: 10px;">
+    <img src="/images/yonsei_logo.png" alt="Yonsei University logo" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p>I received my bachelor’s degree in Materials Science and Engineering from Yonsei University in 2019. I pursued a second bachelor's in Mechanical Engineering (incomplete) and completed a year of coursework plus enough courses to minor in physics.</p>
+  </div>
+</div>
 
 Research
 ------
