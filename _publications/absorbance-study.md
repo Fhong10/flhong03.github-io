@@ -17,6 +17,7 @@ I used UV-Vis spectroscopy to measure absorbance of PEDOT:PSS. The absorbance sp
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
 Voltage- and wavelength- dependent spectra of absorption was measured, as shown in the graph above. These data correspond to the supplementary information in Figure S2a of J. Am. Chem. Soc. 2022, 144, 51, 23505–23515
+
 **1. Beer-Lambert Law**
 First, we define absorbance ($A$) based on the ratio of transmitted to incident light:
 
