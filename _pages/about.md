@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 100px; padding-right: 10px;">
-    <img src="/images/uiuc_logo.png" alt="UIUC_logo" style="max-width: 100%; height: auto;">
+    <img src="/images/uiuc_logo.png" alt="uiuc_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p>I am a Master's student in Materials Science and Engineering at the University of Illinois at Urbana-Champaign. My advisor is Yuecheng Peter Zhou.</p>
@@ -18,7 +18,7 @@ redirect_from:
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 100px; padding-right: 10px;">
-    <img src="/images/neuronsignal.png" alt="Reflectivity simulation" style="max-width: 100%; height: auto;">
+    <img src="/images/neuronsignal.png" alt="neuronsignal" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p>My research centers on reflectivity simulation of multi-layered polymer devices. I use optical Transfer Matrix Method (TMM) to model reflectivity and delta-reflectivity, leveraging s-/p-polarized lights to predict device responses to neural signals.</p>
