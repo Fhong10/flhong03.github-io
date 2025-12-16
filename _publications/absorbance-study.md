@@ -6,7 +6,7 @@ excerpt: "Extraction of voltage- and wavelength- dependent optcial constants fro
 mathjax: true
 ---
 
-## Motivation
+### Motivation
 Because PEDOT:PSS exhibits voltage- dependent optical absorption, I extracted wavelength- and voltage resolved extinction coefficients rather than assuming a constant k, enabling physically meaningful reflectivity simulations under electrochromical modulation.
 
 ### Calcalation
@@ -40,7 +40,10 @@ $$
 k = \dfrac{\alpha \\lambda}{4\pi}
 $$
 
-## Result
+### Result
 
 The calculated extinction coefficient was 0.233 while real value was 0.20 at 255mV and 561nm, resulting in an error of approximately 10%.
 
+### Further Study
+
+In UV-Vis spectroscopy, the incident light oscialltes parallel to the film surface. Therefore, the extinction coefficient extracted from absorbance measurement corresponds to the in-plane optical response. To estimate out-of-plane extinction coefficient, I employed a particle swarm optimization approach to fit anisotropic optical models to experimentally measured reflectivity data.
