@@ -34,7 +34,7 @@ By varying the top and bottom gate voltages, we tuned the electron and hole dens
 
 I built the similar stack using WS2 and WSe2 to study Terahertz Phonons(Ultra-high frequency sound waves)
 
-<img src="{{ '/images/Tetrasignal.png' | relative_url }}" alt="Tetrasignal"
+<img src="{{ '/images/sc2image.png' | relative_url }}" alt="sc2image"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 
 ### Note: This is Fig. 4d from Yoon et al. (2024), shown for illustration. It is not a result from my device and device stack differs.
