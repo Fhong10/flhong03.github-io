@@ -43,6 +43,8 @@ To facilitate systematic parameter exploration, I implemented a graphical user i
      
 These are theoretical reflectivity curves generated using my custom Python-based TMM solver.
 
+## Matching
+
 <img src="{{ '/images/comparison.png' | relative_url }}"
      alt="Comparison"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
