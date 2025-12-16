@@ -5,7 +5,7 @@ permalink: /research/project-1/
 excerpt: "Validation of a custom Python Transfer Matrix Method solver for electrochromic multilayer reflectivity modeling."
 ---
 
-* Since the current project is ongoing and unpublished, I validated my modeling framework by reproducing results from a previously published study "Dual-Color Optical Recording of Bioelectric Potentials by Polymer Electrochromism". Specifically, I used Fig. 2c from the paper as a benchmark for angle-dependent reflectivity under p-polarized illumination.
+Since the current project is ongoing and unpublished, I validated my modeling framework by reproducing results from a previously published study "Dual-Color Optical Recording of Bioelectric Potentials by Polymer Electrochromism". Specifically, I used Fig. 2c from the paper as a benchmark for angle-dependent reflectivity under p-polarized illumination.
 
 ## Motivation
 Neural recording requires resolving voltage changes as small as 10 µV. By modeling how applied voltage alters a material’s optical properties, the optimal conditions for detecting these weak bioelectric signals can be determined. Specifically, In particular, a larger change in reflectivity with respect to incident angle corresponds to higher optical sentivitivity. Motivated by this principle, I modeled angle-dependent reflectivity in multilayer devices under s- and p- polarized illumination. To achieve this, I developed a custom Python Transfer Matrix Method (TMM) solver.
