@@ -24,7 +24,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 100px; padding-right: 10px;">
-    <img src="/images/uiuc_logo.png" alt="uiuc_logo" style="max-width: 100%; height: auto;">
+    <img src="/images/uiuclogo.png" alt="uiuc_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p style="margin-top: 0;">
@@ -36,7 +36,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
   <div style="width: 100px; padding-right: 10px;">
-    <img src="/images/yonsei_logo.png" alt="yonsei_logo" style="max-width: 100%; height: auto;">
+    <img src="/images/yonseilogo.png" alt="yonsei_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p style="margin-top: 0;">
