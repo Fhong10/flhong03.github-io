@@ -7,32 +7,45 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 100px; padding-right: 10px;">
-    <img src="/images/uiuc_logo.png" alt="uiuc_logo" style="max-width: 100%; height: auto;">
+Welcome to my academic portfolio. Below is an overview of my current research focus and academic background.
+
+<hr>
+
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 25px;">
+  <div style="width: 100px; padding-right: 15px;">
+    <img src="/images/neuronsignal.png" alt="Research Icon" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <p>I am a Master's student in Materials Science and Engineering at the University of Illinois at Urbana-Champaign. My advisor is Yuecheng Peter Zhou.</p>
+    <p style="margin-top: 0;">
+      <strong>Research Focus:</strong> My research centers on reflectivity simulation of multi-layered polymer devices. I use the optical Transfer Matrix Method (TMM) to model reflectivity and delta-reflectivity, leveraging s-/p-polarized lights to predict device responses to neural signals.
+    </p>
   </div>
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 100px; padding-right: 10px;">
-    <img src="/images/neuronsignal.png" alt="neuronsignal" style="max-width: 100%; height: auto;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 25px;">
+  <div style="width: 100px; padding-right: 15px;">
+    <img src="/images/uiuc_logo.png" alt="UIUC logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <p>My research centers on reflectivity simulation of multi-layered polymer devices. I use optical Transfer Matrix Method (TMM) to model reflectivity and delta-reflectivity, leveraging s-/p-polarized lights to predict device responses to neural signals.</p>
+    <p style="margin-top: 0;">
+      I am a <strong>Master's student in Materials Science and Engineering</strong> at the University of Illinois at Urbana-Champaign (UIUC). <br>
+      My advisor is <a href="#">Yuecheng Peter Zhou</a>.
+    </p>
   </div>
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 100px; padding-right: 10px;">
-    <img src="/images/yonsei_logo.png" alt="yonsei_logo" style="max-width: 100%; height: auto;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 25px;">
+  <div style="width: 100px; padding-right: 15px;">
+    <img src="/images/yonsei_logo.png" alt="Yonsei Logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <p>I received my bachelor’s degree in Materials Science and Engineering from Yonsei University in 2019. I pursued a second bachelor's in Mechanical Engineering (incomplete) and completed a year of coursework plus enough courses to minor in physics.</p>
+    <p style="margin-top: 0;">
+      I received my <strong>Bachelor’s degree in Materials Science and Engineering</strong> from Yonsei University (Seoul, South Korea) in 2019. I also completed significant coursework in Mechanical Engineering and Physics.
+    </p>
   </div>
 </div>
+
+
 
 Research
 ------
