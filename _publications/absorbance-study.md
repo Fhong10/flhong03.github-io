@@ -33,7 +33,7 @@ $$
 $$
 where d is film thickness.
 
-Since absorption coefficient is given, I can calculate extinction coefficient.
+Given the absorption coefficient, the extinction coefficient can be calculated.
 
 ### Extinction coefficient:
 $$
@@ -42,5 +42,5 @@ $$
 
 ## Result
 
-
+The calculated extinction coefficient was 0.233 while real value was 0.20 at 255mV and 561nm, resulting in an error of approximately 10%.
 
