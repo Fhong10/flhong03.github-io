@@ -25,9 +25,9 @@ I made a van der Waals heterostructure with monolayer of MoSe2 and WS2 protected
 <img src="{{ '/images/Rpeak.png' | relative_url }}" alt="Rpeak"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 
-We shone a laser on the device to excite electrons, creating excitons. By measuring reflectivity, they observed specific peaks that reveal the material's optical behavior.
+We illuminated the device with a laser and performed reflectance spectroscopy to track excitonic resonances The resulting reflectivity spectrum shows distinct peaks that reflect the material’s optical response.
 
-Moreover, by chaning the voltages at the top and bottom gates, we controlled the density of electrons and holes and shifted material's energy levels. Through this voltage manipulation and by observing changes in the laser spectrum, we were able to tune the band alignment(transitioning between Type I or Type II alignment) 
+By varying the top and bottom gate voltages, we tuned the electron and hole densities and shifted the relative band energies. This electrostatic control allowed us to tune the effective band gap in this type-II heterostructure.
 
 ## WSe2/WS2 Heterostructure Device
 
