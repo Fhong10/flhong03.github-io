@@ -36,8 +36,6 @@ I built the similar stack using WS2 and WSe2 to study Terahertz Phonons(Ultra-hi
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
   <img src="{{ '/images/Wdevice.png' | relative_url }}" alt="Wdevice"
        style="max-width: 420px; width: 100%; height: auto; display: block;">
-  <img src="{{ '/images/Wdevice.png' | relative_url }}" alt="Wdevice"
-       style="max-width: 420px; width: 100%; height: auto; display: block;">
 </div>
 
 <img src="{{ '/images/Tetrasignal.png' | relative_url }}" alt="Tetrasignal"
