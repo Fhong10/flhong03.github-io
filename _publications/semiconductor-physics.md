@@ -20,7 +20,7 @@ I made a van der Waals heterostructure with monolayer of MoSe2 and WS2 protected
 <img src="{{ '/images/Rpeak.png' | relative_url }}" alt="Rpeak"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 
-#### Note: This is Fig. 1d from Qi et al. (2023), shown for illustration. It is not a result from my device and device stack differs.
+### Note: This is Fig. 1d from Qi et al. (2023), shown for illustration. It is not a result from my device and device stack differs.
 Qi, R.; Joe, A. Y.; Zhang, Z.; et al. “Thermodynamic behavior of correlated electron–hole fluids in van der Waals heterostructures.” Nature Communications 14, 8264 (2023). doi:10.1038/s41467-023-43799-7
 
 We illuminated the device with a laser and performed reflectance spectroscopy to track excitonic resonances The resulting reflectivity spectrum shows distinct peaks that reflect the material’s optical response.
@@ -34,7 +34,7 @@ I built the similar stack using WS2 and WSe2 to study Terahertz Phonons(Ultra-hi
 <img src="{{ '/images/Tetrasignal.png' | relative_url }}" alt="Tetrasignal"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 
-#### Note: This is Fig. 4d from Yoon et al. (2024), shown for illustration. It is not a result from my device and device stack differs.
+### Note: This is Fig. 4d from Yoon et al. (2024), shown for illustration. It is not a result from my device and device stack differs.
 Yoon, Y., Lu, Z., Uzundal, C. et al. Terahertz phonon engineering with van der Waals heterostructures. Nature 631, 771–776 (2024). https://doi.org/10.1038/s41586-024-07604-9
 
 Using ultrafast pump-probe spectroscopy, coherent acoustic-phonon pulses propagate through the van der Waals heterostructure. By time-resolving the response, we can isolate the incident, reflected, and transmitted phonon arrivals. This provides a direct way to see how specific layers and interfaces in the heterostructure shape terahertz phonon propagation.
