@@ -20,11 +20,11 @@ Voltage- and wavelength- dependent spectra of absorption was measured, as shown 
 
 ### Beer-lambert law
 $$
-A = -\log_{10}\!\left(\dfrac{I_{\text{transmitted}}}{I_{\text{incident}}}\right)
+A = -\log_{10}\\left(\dfrac{I_{\text{transmitted}}}{I_{\text{incident}}}\right)
 $$
 A: absorbance
 $$
-\ln\!\left(\frac{I_0}{I}\right) = (\ln 10)\,A
+\ln\\left(\frac{I_0}{I}\right) = (\ln 10)\A
 $$
 
 ### From absorbance to absorption coefficient:
