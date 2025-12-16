@@ -29,7 +29,7 @@ $$
 
 ### From absorbance to absorption coefficient:
 $$
-\alpha = \dfrac{ln(10)\,A}{d}
+\alpha = \dfrac{ln(10)\A}{d}
 $$
 where d is film thickness.
 
@@ -37,7 +37,7 @@ Given the absorption coefficient, the extinction coefficient can be calculated.
 
 ### Extinction coefficient:
 $$
-k = \dfrac{\alpha \,\lambda}{4\pi}
+k = \dfrac{\alpha \\lambda}{4\pi}
 $$
 
 ## Result
