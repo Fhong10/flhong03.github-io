@@ -12,7 +12,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 <hr>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 100px; padding-right: 10px;">
+  <div style="width: 150px; padding-right: 15px;">
     <img src="{{ '/images/neuronsignal.png' | relative_url }}" alt="neuronsignal" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
@@ -23,7 +23,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 100px; padding-right: 10px;">
+  <div style="width: 150px; padding-right: 15px;">
     <img src="{{ '/images/uiuclogo.png' | relative_url }}" alt="uiuc_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
@@ -35,7 +35,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 100px; padding-right: 10px;">
+  <div style="width: 150px; padding-right: 1515;">
     <img src="{{ '/images/yonseilogo.png' | relative_url }}" alt="yonsei_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
