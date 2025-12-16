@@ -13,7 +13,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 25px;">
   <div style="width: 100px; padding-right: 15px;">
-    <img src="/images/neuronsignal.png" alt="Research Icon" style="max-width: 100%; height: auto;">
+    <img src="/images/neuronsignal.png" alt="neuronsignal" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p style="margin-top: 0;">
@@ -24,11 +24,11 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 25px;">
   <div style="width: 100px; padding-right: 15px;">
-    <img src="/images/uiuc_logo.png" alt="UIUC logo" style="max-width: 100%; height: auto;">
+    <img src="/images/uiuc_logo.png" alt="uiuc_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p style="margin-top: 0;">
-      I am a <strong>Master's student in Materials Science and Engineering</strong> at the University of Illinois at Urbana-Champaign (UIUC). <br>
+      I am a Master's student in Materials Science and Engineering at the University of Illinois at Urbana-Champaign (UIUC). <br>
       My advisor is <a href="#">Yuecheng Peter Zhou</a>.
     </p>
   </div>
@@ -36,11 +36,11 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 25px;">
   <div style="width: 100px; padding-right: 15px;">
-    <img src="/images/yonsei_logo.png" alt="Yonsei Logo" style="max-width: 100%; height: auto;">
+    <img src="/images/yonsei_logo.png" alt="yonsei_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
     <p style="margin-top: 0;">
-      I received my <strong>Bachelor’s degree in Materials Science and Engineering</strong> from Yonsei University (Seoul, South Korea) in 2019. I also completed significant coursework in Mechanical Engineering and Physics.
+      I received my Bachelor’s degree in Materials Science and Engineering from Yonsei University (Seoul, South Korea) in 2019. I also completed significant courseworks in Mechanical Engineering and Physics.
     </p>
   </div>
 </div>
