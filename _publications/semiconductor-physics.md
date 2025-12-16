@@ -13,13 +13,11 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
 3. I used photolithograph to build pathway for gold circuit.
 4. Using gole evaporator I laid gold circuit.
 
-### Result
+
 ## MoSe2/WS2 Heterostructure Device
 I made a van der Waals heterostructure with monolayer of MoSe2 and WS2 protected by Boron Nitride(hBN).
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="{{ '/images/Mdevice.png' | relative_url }}" alt="Mdevice"
-       style="max-width: 420px; width: 100%; height: auto; display: block;">
   <img src="{{ '/images/Mdevice.png' | relative_url }}" alt="Mdevice"
        style="max-width: 420px; width: 100%; height: auto; display: block;">
 </div>
