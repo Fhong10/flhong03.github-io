@@ -32,9 +32,9 @@ Grid search yields corresponding result:
      alt="PSO visulaization"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
-To reduce the computational time of grid search, I implemented particle swarm optimization (PSO) in MATLAB. PSO efficiently explores the parameter space by evolving a population of candidate solutions based on both individual and collective optimization behavior.
+To reduce the computational time of grid search, I implemented particle swarm optimization (PSO) in MATLAB. PSO efficiently explores the parameter space by evolving a population of candidate solutions based on both individual and collective optimization behavior. It also explores minimum MSE.
 
-Using PSO, anisotropic extinction coefficients were extracted by minimizing the mean-squared error between simulated and experimental reflectivity spectra with significantly reduced computation time. This approach enabled efficient and robust fitting of optical parameters in anisotropic multilayer systems.
+This approach enabled efficient and robust fitting of optical parameters in anisotropic multilayer systems.
 
 <div class="pso-explainer" style="line-height: 1.35;">
   <p style="margin: 0 0 8px 0;">The plot is a Particle Swarm Optimization (PSO) run on two parameters (n and k). Each white dot is a particle position; the red dot marks the global best candidate found; the yellow star marks the final selected solution. Iteration is 40 to find a best mean squared error (MSE) of 5.896×10⁻⁴.</p>
