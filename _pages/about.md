@@ -29,7 +29,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
   <div style="flex: 1;">
     <p style="margin-top: 0;">
       I am a Master's student in Materials Science and Engineering at the University of Illinois at Urbana-Champaign (UIUC). <br>
-      My advisor is <a href="#">Yuecheng Peter Zhou</a>.
+      My advisor is Yuechung Peter Zhou</a>.
     </p>
   </div>
 </div>
