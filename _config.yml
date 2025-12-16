@@ -14,7 +14,7 @@ title_separator          : "Graduate student"
 name                     : &name "Francis Hong"
 description              : &description "personal description"
 url                      : https://fhong10.github.io # the base hostname & protocol for your site e.g
-baseurl                  : "/flhong03.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Fhong10/flhong03.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
