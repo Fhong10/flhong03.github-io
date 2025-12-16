@@ -11,8 +11,8 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 
 <hr>
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 25px;">
-  <div style="width: 100px; padding-right: 15px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 100px; padding-right: 10px;">
     <img src="/images/neuronsignal.png" alt="neuronsignal" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
@@ -22,8 +22,8 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
   </div>
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 25px;">
-  <div style="width: 100px; padding-right: 15px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 100px; padding-right: 10px;">
     <img src="/images/uiuc_logo.png" alt="uiuc_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
@@ -34,8 +34,8 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
   </div>
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 25px;">
-  <div style="width: 100px; padding-right: 15px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 100px; padding-right: 10px;">
     <img src="/images/yonsei_logo.png" alt="yonsei_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
