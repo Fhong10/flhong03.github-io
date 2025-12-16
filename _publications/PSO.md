@@ -7,18 +7,23 @@ excerpt: "Extracting Anisotropic Extinction Coeffcients."
 
 ### Motivation
 
-Absorption values of UV-Vis spectroscopy only generate extinction coefficients in-plane components. Therefore, I tried to find extinction coefficients based on mean-squared error between theoretical graphs and experimental data graphs. Once I input optical parameters, algorithm finds the minimum value and display the optical parameters such as extinction coefficients on the screen. TO find minimum mean squared values, I used the grid search and particle swarm optimizaiton.
+UV-Vis spectroscopy probes optical absorption with the elctric field oscillating parallel to the film surface, yielding extinction coefficients corresponding only to in-plane optical response. However, accurate modeling of multilayer reflectivity requires both in-plane and out-of-plane extinction coefficients. To address this limitation, I formulated an inverse problem in which anisotropic extinction coefficients were extracted by minimizing the mean-squared error between theoretically calculated and experimentally measured reflectivity spectra.
 
+Given a set of optical parameters, the algorithm computes theoretical reflectivity curves and iteratively searches for parameter values that minimize the discrepancy with experimental data. The optimized extinction coefficients are then returned as the output.
 
 ## Grid search
 
-I initially used the grid search in Python. Theoretical refletivity is plotted using parameter such as thickness of each materials, refractive index etc. Each plotted reflectivity is subtracted from measured reflectivity data and find the minimum value. Based on number of parameters vector space, it consumes a lot of time to compute the optimized refractive index.
+I first implemented a grid search method in Python, in which reflectivity spectra were calculated using the Transfer Matrix Method while systematically sweeping optical parameters such as film thickness and complex refractive index. The mean-squared error between theoretical and measured reflectivity spectra was computed for each parameter combination.
+Although this approach provides a straightforward baseline, the computational time increased rapidly with the dimensionality of the parameter space, even exceeding 3 hours
 
-## Particle Swarm Optimization
+## Particle Swarm Optimization(PSO)
 
-I implemented particle swarm optimization in MATLAB to reduce time. 
- 
+To reduce the computational time of grid search, I implemented particle swarm optimization (PSO) in MATLAB. PSO efficiently explores the parameter space by evolving a population of candidate solutions based on both individual and collective optimization behavior.
+
+Using PSO, anisotropic extinction coefficients were extracted by minimizing the mean-squared error between simulated and experimental reflectivity spectra with significantly reduced computation time. This approach enabled efficient and robust fitting of optical parameters in anisotropic multilayer systems.
 
 
+## The result
 
+Both optimization methods yielded the same optimized parameters, while particle swarm optimization significantly reduced computation time compared to grid search.
 
