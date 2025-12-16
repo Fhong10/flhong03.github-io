@@ -22,12 +22,15 @@ Voltage- and wavelength- dependent spectra of absorption was measured, as shown 
 $$
 A = -\log_{10}\!\left(\frac{I_{\text{transmitted}}}{I_{\text{incident}}}\right)
 $$
+
 A: absorbance
+
 $$
 \ln\!\left(\frac{I_{\text{incident}}}{I_{\text{transmitted}}}\right) = (\ln 10)\,A
 $$
 
 ### From absorbance to absorption coefficient:
+
 $$
 \alpha = \dfrac{ln(10)\A}{d}
 $$
