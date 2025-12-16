@@ -23,7 +23,7 @@ I made a van der Waals heterostructure with monolayer of MoSe2 and WS2 protected
 <img src="{{ '/images/Rpeak.png' | relative_url }}" alt="Rpeak"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 
-### Note: This is Fig. 1d from Qi et al. (2023), shown for illustration. It is not a result from my device and device stack differs.
+### Note: This is Fig. 1d from Qi et al. (2023), shown for illustration. It is not a result from my device and device stack differs. I brought the figure for explanation.
 Qi, R.; Joe, A. Y.; Zhang, Z.; et al. “Thermodynamic behavior of correlated electron–hole fluids in van der Waals heterostructures.” Nature Communications 14, 8264 (2023). doi:10.1038/s41467-023-43799-7
 
 We illuminated the device with a laser and performed reflectance spectroscopy to track excitonic resonances The resulting reflectivity spectrum shows distinct peaks that reflect the material’s optical response.
