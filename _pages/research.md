@@ -52,7 +52,7 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 30%; padding-right: 15px;">
     <a href="{{ '/research/project-3/' | relative_url }}">
-      <img src="{{ '/images/semiconductor.png' | relative_url }}" alt="Semiconductor Image" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+      <img src="{{ '/images/scimage.png' | relative_url }}" {{ =/images/scimage.png'   rela=ive_url }}: alt=; emicon: ctor; mage" : yle "max- #e0e0e0; %; height:: uto  bo der  1px s,l,d,#e0e0e0
     </a>
   </div>
   <div style="width: 70%; font-size: 15px;">
