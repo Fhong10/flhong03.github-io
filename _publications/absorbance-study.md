@@ -38,9 +38,9 @@ $$
 \alpha = \frac{A \ln(10)}{d}
 $$
 
-- **$d$**: Film thickness
+- **d**: Film thickness
 
-**3. Extinction Coefficient ($k$)**  
+**3. Extinction Coefficient (k)**  
 Finally, given the absorption coefficient and wavelength ($\lambda$), we calculate the extinction coefficient:
 
 $$
