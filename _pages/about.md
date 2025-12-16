@@ -80,7 +80,7 @@ Research
   </div>
   <div style="width: 70%; font-size: 15px;">
     <strong>Semiconductor Device Physics</strong><br>
-    <em style="color: #4A4A4A;">Hands-on experimental work in device fabrication.</em><br>
+    <em style="color: #4A4A4A;">Fabrication of van der Waals heterostructures using mechanical exfoliation, transfer stage, and photolithography. Devices were characterized via dual-gate tuning to modulate band alignment and ultrafast spectroscopy to investigate terahertz phonon propagation across interfaces.</em><br>
   </div>
 </div>
 
@@ -91,6 +91,6 @@ Research
   </div>
   <div style="width: 70%; font-size: 15px;">
     <strong>Particle Swarm Optimization</strong><br>
-    <em style="color: #4A4A4A;">Briefly describe what the PSO project demonstrates (e.g., optimization of optical stack parameters and convergence behavior).</em><br>
+    <em style="color: #4A4A4A;">Implementation of a MATLAB-based PSO algorithm to solve inverse optical problems by minimizing the mean-squared error between theoretical and experimental reflectivity. This method efficiently extracts anisotropic extinction coefficients, significantly reducing computation time compared to traditional grid search approaches..</em><br>
   </div>
 </div>
