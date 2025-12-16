@@ -26,6 +26,12 @@ To reduce the computational time of grid search, I implemented particle swarm op
 
 Using PSO, anisotropic extinction coefficients were extracted by minimizing the mean-squared error between simulated and experimental reflectivity spectra with significantly reduced computation time. This approach enabled efficient and robust fitting of optical parameters in anisotropic multilayer systems.
 
+The plot is a Particle Swarm Optimization (PSO) run on two parameters (n and k). Each white dot is a particle position ; the red dot marks the global best candidate found; the yellow star marks the final selected solution. Iteration is 40 to find a best mean squared error(MSE) of 5.896×10⁻⁴.
+Color map: It encodes log10(MSE) of the objective over the (n, k) plane.
+Blue/purple = lower MSE (better fit).
+Yellow = higher MSE (worse fit).
+The color bar spans roughly −3 to −1, so MSE ranges from about 10⁻³ to 10⁻¹ across the plotted region.
+
 
 ## The result
 
