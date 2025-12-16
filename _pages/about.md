@@ -59,7 +59,6 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>Algorithm Validation: Reflectivity in Multilayer device</strong><br>
     <em style="color: #4A4A4A;">Validation of a custom Python-based Transfer Matrix Method (TMM) implementation through matching with experimentally measured p-polarized reflectivity at 561nm and 658nm wavelengths.</em><br>
-    <span style="font-weight: bold;">Device Physics</span> / <span>Numerical Simulation</span>
   </div>
 </div>
 
@@ -71,7 +70,6 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>Optical Absorption Analysis</strong><br>
     <em style="color: #4A4A4A;">Quantitative analysis of voltage- and wavelength-dependent absorbance spectra of PEDOT:PSS using UV–Vis spectroscopy, enabling extraction of optical constants for electrochromic device modeling.</em><br>
-    <span style="font-weight: bold;">Calculation of extinction coeffcient</span>
   </div>
 </div>
 
@@ -83,7 +81,6 @@ Research
   <div style="width: 70%; font-size: 15px;">
     <strong>Semiconductor Device Physics</strong><br>
     <em style="color: #4A4A4A;">Hands-on experimental work in device fabrication.</em><br>
-    <span style="font-weight: bold;">Exfoliation</span> / <span>Photolithograph</span>
   </div>
 </div>
 
@@ -94,7 +91,6 @@ Research
   </div>
   <div style="width: 70%; font-size: 15px;">
     <strong>Particle Swarm Optimization</strong><br>
-    <em style="color: #4A4A4A;">Briefly describe what the PSO project demonstrates (e.g., optimization of optical stack parameters or convergence behavior).</em><br>
-    <span style="font-weight: bold;">Optimization</span> / <span>Numerical Methods</span>
+    <em style="color: #4A4A4A;">Briefly describe what the PSO project demonstrates (e.g., optimization of optical stack parameters and convergence behavior).</em><br>
   </div>
 </div>
