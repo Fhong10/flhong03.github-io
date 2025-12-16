@@ -19,11 +19,12 @@ By enforcing Maxwell’s boundary conditions at each interface, the method relat
 
 ### Device Geometry(4-layer devices)
 Stack (top → bottom):
-* SF-10 glass prism(semi-infinite layer)
-* ITO (≈ 19 nm)
-* PEDOT:PSS (≈ 69 nm)
-* Aqueous environment-water(semi-infinite layer)
 
+* Aqueous environment-water(semi-infinite layer)
+* PEDOT:PSS (≈ 69 nm)
+* ITO (≈ 19 nm)
+* SF-10 glass prism(semi-infinite layer)
+  
 Key parameters of the model:
 * Full complex refractive index handling (n+ik)
 * Incident angle of beam
