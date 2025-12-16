@@ -18,7 +18,7 @@ This is a computational framework used to model electromagnetic wave propagation
 By enforcing Maxwell’s boundary conditions at each interface, the method relates the electric and magnetic fields of adjacent layers via 2×2 characteristic matrices. The optical response of the entire device—including reflection, transmission, and absorption—is determined by the product of these individual layer matrices. This approach is computationally efficient and essential for optimizing the sensitivity of multilayer thin-film sensors.
 
 ### Device Geometry(4-layer devices)
-Stack (top → bottom):
+Stack (top → bottom): Laser is entering the bottom layer.
 
 * Aqueous environment-water(semi-infinite layer)
 * PEDOT:PSS (≈ 69 nm)
@@ -27,9 +27,12 @@ Stack (top → bottom):
   
 Key parameters of the model:
 * Full complex refractive index handling (n+ik)
+  PEDOT:PSS layer: n = 1.41 + i0.23 </strong>at 561 nm</strong>
+                   n = 1.40 + i0.35 </strong>at 658 nm</strong>
 * Incident angle of beam
 * Polarization-selective(TE/s-polarization, TM/p-polarization)
 * Two wavelengthes comparison(561nm, 658nm)
+
 
 ## Result
 
