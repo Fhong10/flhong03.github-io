@@ -10,6 +10,13 @@ Since the current project is ongoing and unpublished, I validated my modeling fr
 ## Motivation
 Neural recording requires resolving voltage changes as small as 10 µV. By modeling how applied voltage alters a material’s optical properties, the optimal conditions for detecting these weak bioelectric signals can be determined. Specifically, In particular, a larger change in reflectivity with respect to incident angle corresponds to higher optical sentivitivity. Motivated by this principle, I modeled angle-dependent reflectivity in multilayer devices under s- and p- polarized illumination. To achieve this, I developed a custom Python Transfer Matrix Method (TMM) solver.
 
+
+### Transfer Matrix Method (TMM)
+
+This is a computational framework used to model electromagnetic wave propagation through stratified media.
+
+By enforcing Maxwell’s boundary conditions at each interface, the method relates the electric and magnetic fields of adjacent layers via 2×2 characteristic matrices. The optical response of the entire device—including reflection, transmission, and absorption—is determined by the product of these individual layer matrices. This approach is computationally efficient and essential for optimizing the sensitivity of multilayer thin-film sensors.
+
 ### Device Geometry(4-layer devices)
 Stack (top → bottom):
 * SF-10 glass prism(semi-infinite layer)
