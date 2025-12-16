@@ -41,7 +41,7 @@ $$
 - **d**: Film thickness
 
 **3. Extinction Coefficient (k)**  
-Finally, given the absorption coefficient and wavelength ($\lambda$), we calculate the extinction coefficient:
+Finally, given the absorption coefficient and wavelength (\lambda), we calculate the extinction coefficient:
 
 $$
 k = \frac{\alpha \lambda}{4\pi}
