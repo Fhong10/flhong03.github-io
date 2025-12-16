@@ -13,6 +13,10 @@ Given a set of optical parameters, the algorithm computes theoretical reflectivi
 
 ## Grid search
 
+<img src="{{ '/images/gridsearch.gif' | relative_url }}"
+     alt="PSO visulaization"
+     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
+
 I first implemented a grid search method in Python, in which reflectivity spectra were calculated using the Transfer Matrix Method while systematically sweeping optical parameters such as film thickness and complex refractive index. The mean-squared error between theoretical and measured reflectivity spectra was computed for each parameter combination.
 Although this approach provides a straightforward baseline, the computational time increased rapidly with the dimensionality of the parameter space, even exceeding 3 hours
 
