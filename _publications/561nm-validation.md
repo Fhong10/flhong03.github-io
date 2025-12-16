@@ -2,11 +2,13 @@
 title: "Reflectivity Modeling of PEDOT:PSS Multilayer Devices Using Transfer Matrix Method"
 collection: publications
 permalink: /research/project-1/
-excerpt: "Benchmarking my Python TMM solver against standardpaper."
+excerpt: "Validation of a custom Python Transfer Matrix Method solver for electrochromic multilayer reflectivity modeling."
 ---
 
+* Since the current project is ongoing and unpublished, I validated my modeling framework by reproducing results from a previously published study "Dual-Color Optical Recording of Bioelectric Potentials by Polymer Electrochromism". Specifically, I used Fig. 2c from the paper as a benchmark for angle-dependent reflectivity under p-polarized illumination.
+
 ## Motivation
-Neural recording requires resolving voltage changes as small as 10 µV. By modeling how applied voltage alters a material’s optical properties, the optimal conditions for detecting these weak bioelectric signals can be determined. Specifically, In particular, a larger change in reflectivity with respect to incident angle corresponds to higher optical sentivitivity. Motivated by this principle, I began by modeling angle-dependent reflectivity in multilayer devices under s- and p- polarized illumination. To achieve this, I developed a custom Python Transfer Matrix Method (TMM) solver.
+Neural recording requires resolving voltage changes as small as 10 µV. By modeling how applied voltage alters a material’s optical properties, the optimal conditions for detecting these weak bioelectric signals can be determined. Specifically, In particular, a larger change in reflectivity with respect to incident angle corresponds to higher optical sentivitivity. Motivated by this principle, I modeled angle-dependent reflectivity in multilayer devices under s- and p- polarized illumination. To achieve this, I developed a custom Python Transfer Matrix Method (TMM) solver.
 
 ### Device Geometry(4-layer devices)
 Stack (top → bottom):
@@ -23,30 +25,28 @@ Key parameters of the model:
 
 ## Result
 
-Since what I have done is not published yet, I modeled reflectivity on previous published paper "Dual-Color Optical Recording of Bioelectric Potentials by Polymer Electrochromism". I used Fig.2(c) to match simulation and Fig.2C.
-
 <img src="{{ '/images/561nm.png' | relative_url }}"
      alt="561nm Validation Graph"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
-This is original Fig 2c in the paper. Dotted lines are experimental data and lines are theoretical graphs done by the author. I am going to match my simulation graph to lines in the diagram.
+The original Fig 2c shows experimental reflectivity data(dotted lines) and theoretical predictions (solid lines). I independently reproduced the theoretical reflectivity curves using my TMM solver and matched them to the published experimental trends at both wavelengths.
 
 <img src="{{ '/images/Userfriendlyinterface.png' | relative_url }}"
      alt="Userfriendlyinterface"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
-I made the script and used anaconda to run Python script. Before plotting the graph, I made this user interface to enter the parameters to plot the graphs.
+To facilitate systematic parameter exploration, I implemented a graphical user interface within the Python script using Anaconda. This interface allows users to input material parameters, wavelength, polarization, and incident angle prior to plotting reflectivity curves.
 
 <img src="{{ '/images/simulation.png' | relative_url }}"
      alt="Simulation"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
-
-This is my theoretical graphs. Reflectivity versus incident angle using p-polarized light. Since there are two wavelenghts, there are two graphs generated.
+     
+This is theoretical graphs drawn by me.
 
 <img src="{{ '/images/comparison.png' | relative_url }}"
      alt="Comparison"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
-I matched two theoretical reflectivity graphs to experiemntal data(dotted lines) in the diagram. Those two align with each other well.
+The simulated reflectivity versus incident angle for p-polarized light at 561 nm and 658 nm shows strong agreement with the published results, confirming the validity of the optical model and parameter implementation.
 
 
