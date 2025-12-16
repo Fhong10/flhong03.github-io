@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Here is a summary of my work in optical simulation and semiconductor physics. Click on any project to see the full validation report and code.
+Here is a summary of my work in optical simulation and hands-on fabrication experience. Click on any project to see the detailed information.
 
 <hr>
 
@@ -17,11 +17,11 @@ Here is a summary of my work in optical simulation and semiconductor physics. Cl
   </div>
   <div style="width: 70%; font-size: 15px;">
     <a href="{{ '/research/project-1/' | relative_url }}" style="text-decoration: none;">
-      <strong style="font-size: 18px; color: #333;">Algorithm Validation: 561nm Target</strong>
+      <strong style="font-size: 18px; color: #333;">Algorithm Validation: 561nm and 658nm Target</strong>
     </a>
     <br>
     <p style="margin-top: 5px;">
-      I reproduced the reflectivity stopband for a 561nm target using my custom Python TMM code. This validated the solver against standard textbook results.
+      I validated my custom Python Transfer Matrix Method (TMM) tool by reproducing reflectivity behavior at 561nm & 658nm wavelengths and comparing against reference results.
     </p>
     <a href="{{ '/research/project-1/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
   </div>
@@ -41,7 +41,7 @@ Here is a summary of my work in optical simulation and semiconductor physics. Cl
     </a>
     <br>
     <p style="margin-top: 5px;">
-      A detailed study of material absorbance properties across the visible spectrum, comparing simulation data with experimental results.
+      I calculated the voltage- and wavelength-dependent in-plane extinction coefficient k of PEDOT:PSS fne component using the Beer-Lambert law. I converted absorbance into extinction coefficients.
     </p>
     <a href="{{ '/research/project-2/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
   </div>
@@ -57,11 +57,11 @@ Here is a summary of my work in optical simulation and semiconductor physics. Cl
   </div>
   <div style="width: 70%; font-size: 15px;">
     <a href="{{ '/research/project-3/' | relative_url }}" style="text-decoration: none;">
-      <strong style="font-size: 18px; color: #333;">Semiconductor Device Physics</strong>
+      <strong style="font-size: 18px; color: #333;">2D Heterostructure Device Fabrication</strong>
     </a>
     <br>
     <p style="margin-top: 5px;">
-      Simulation of carrier transport and junction behavior in advanced solar cell structures using multi-physics modeling.
+      Hands-on fabrication of van der Waals heterostructure devices using exfoliation, transfer stacking, photolithography, and Au deposition, followed by reflectance spectroscopy to probe excitonic resonances under electrostatic gating.
     </p>
     <a href="{{ '/research/project-3/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
   </div>
