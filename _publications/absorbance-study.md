@@ -19,7 +19,7 @@ I used UV-Vis spectroscopy to measure absorbance of PEDOT:PSS. The absorbance sp
 Voltage- and wavelength-dependent spectra of absorption were measured, as shown in the graph above. These data correspond to the supplementary information in Figure S2a of J. Am. Chem. Soc. 2022, 144, 51, 23505–23515.
 
 **1. Beer-Lambert Law**  
-First, we define absorbance ($A$) based on the ratio of transmitted to incident light:
+First, we define absorbance (A) based on the ratio of transmitted to incident light:
 
 $$
 A = -\log_{10} \left( \frac{I_{\text{transmitted}}}{I_{\text{incident}}} \right)
@@ -31,7 +31,7 @@ $$
 \ln \left( \frac{I_{\text{incident}}}{I_{\text{transmitted}}} \right) = (\ln 10) A
 $$
 
-**2. Absorption Coefficient ($\alpha$)**  
+**2. Absorption Coefficient (α)**  
 Next, we relate absorbance to the physical properties of the film.
 
 $$
@@ -41,7 +41,7 @@ $$
 - **d**: Film thickness
 
 **3. Extinction Coefficient (k)**  
-Finally, given the absorption coefficient and wavelength (\lambda), we calculate the extinction coefficient:
+Finally, given the absorption coefficient and wavelength (λ), we calculate the extinction coefficient:
 
 $$
 k = \frac{\alpha \lambda}{4\pi}
