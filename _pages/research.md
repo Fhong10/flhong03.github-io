@@ -12,7 +12,7 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
   <div style="width: 30%; padding-right: 15px;">
     <a href="{{ '/research/project-1/' | relative_url }}">
-      <img src="{{ '/images/561nm.png' | relative_url }}" alt="561nm Graph" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+      <img src="{{ '/images/simulation.png' | relative_url }}" alt="561nm Graph" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     </a>
   </div>
   <div style="width: 70%; font-size: 15px;">
@@ -64,5 +64,25 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
       Hands-on fabrication of van der Waals heterostructure devices using exfoliation, transfer stacking, photolithography, and Au deposition, followed by reflectance spectroscopy to probe excitonic resonances under electrostatic gating.
     </p>
     <a href="{{ '/research/project-3/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
+  </div>
+</div>
+
+<hr>
+
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
+  <div style="width: 30%; padding-right: 15px;">
+    <a href="{{ '/research/project-4/' | relative_url }}">
+      <img src="{{ '/images/semiconductor.png' | relative_url }}" alt="Semiconductor Image" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+    </a>
+  </div>
+  <div style="width: 70%; font-size: 15px;">
+    <a href="{{ '/research/project-4/' | relative_url }}" style="text-decoration: none;">
+      <strong style="font-size: 18px; color: #333;">Particle Swarm Optimization</strong>
+    </a>
+    <br>
+    <p style="margin-top: 5px;">
+      Extract anisotropic optical constants (in-plane/out-of-plane) of PEDOT:PSS from ECORE-measured s-/p- polarized light reflectivity using particle swarm optimization.
+    </p>
+    <a href="{{ '/research/project-4/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
   </div>
 </div>
