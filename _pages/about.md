@@ -56,7 +56,6 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 </div>
 
 ## Research
----
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-top: 20px;">
   </div>
