@@ -57,46 +57,54 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 
 ## Research
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; margin-top: 20px;">
-  </div>
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
+  <div style="width: 160px; padding-right: 16px; flex-shrink: 0;">
     <img src="{{ '/images/simulation.png' | relative_url }}" alt="561nm Graph"
          style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
-  <div style="width: 70%; font-size: 15px;">
-    <strong>Algorithm Validation: Reflectivity in Multilayer device</strong><br>
-    <em style="color: #4A4A4A;">Validation of a custom Python-based Transfer Matrix Method (TMM) implementation through matching with experimentally measured p-polarized reflectivity at 561nm and 658nm wavelengths.</em><br>
+  <div style="flex: 1;">
+    <p style="margin-top: 0;">
+      <strong>Algorithm Validation: Reflectivity in Multilayer device</strong><br>
+      <em style="color: #4A4A4A;">Validation of a custom Python-based Transfer Matrix Method (TMM) implementation through matching with experimentally measured p-polarized reflectivity at 561nm and 658nm wavelengths.</em>
+    </p>
   </div>
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 30%; padding-right: 15px;">
+  <div style="width: 160px; padding-right: 16px; flex-shrink: 0;">
     <img src="{{ '/images/Absorbance2.png' | relative_url }}" alt="Absorbance Graph"
          style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
-  <div style="width: 70%; font-size: 15px;">
-    <strong>Optical Absorption Analysis</strong><br>
-    <em style="color: #4A4A4A;">Quantitative analysis of voltage- and wavelength-dependent absorbance spectra of PEDOT:PSS using UV–Vis spectroscopy, enabling extraction of optical constants for electrochromic device modeling.</em><br>
+  <div style="flex: 1;">
+    <p style="margin-top: 0;">
+      <strong>Optical Absorption Analysis</strong><br>
+      <em style="color: #4A4A4A;">Quantitative analysis of voltage- and wavelength-dependent absorbance spectra of PEDOT:PSS using UV–Vis spectroscopy, enabling extraction of optical constants for electrochromic device modeling.</em>
+    </p>
   </div>
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 30%; padding-right: 15px;">
+  <div style="width: 160px; padding-right: 16px; flex-shrink: 0;">
     <img src="{{ '/images/scimage.png' | relative_url }}" alt="scimage"
          style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
-  <div style="width: 70%; font-size: 15px;">
-    <strong>Semiconductor Device Physics</strong><br>
-    <em style="color: #4A4A4A;">Fabrication of van der Waals heterostructures using mechanical exfoliation, transfer stage, and photolithography. Devices were characterized via dual-gate tuning to modulate band alignment and ultrafast spectroscopy to investigate terahertz phonon propagation across interfaces.</em><br>
+  <div style="flex: 1;">
+    <p style="margin-top: 0;">
+      <strong>Semiconductor Device Physics</strong><br>
+      <em style="color: #4A4A4A;">Fabrication of van der Waals heterostructures using mechanical exfoliation, transfer stage, and photolithography. Devices were characterized via dual-gate tuning to modulate band alignment and ultrafast spectroscopy to investigate terahertz phonon propagation across interfaces.</em>
+    </p>
   </div>
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 30%; padding-right: 15px;">
+  <div style="width: 160px; padding-right: 16px; flex-shrink: 0;">
     <img src="{{ '/images/PSOimage.png' | relative_url }}" alt="Particle Swarm Optimization"
          style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
-  <div style="width: 70%; font-size: 15px;">
-    <strong>Particle Swarm Optimization</strong><br>
-    <em style="color: #4A4A4A;">Implementation of a MATLAB-based PSO algorithm to solve inverse optical problems by minimizing the mean-squared error between theoretical and experimental reflectivity. This method efficiently extracts anisotropic extinction coefficients, significantly reducing computation time compared to traditional grid search approaches..</em><br>
+  <div style="flex: 1;">
+    <p style="margin-top: 0;">
+      <strong>Particle Swarm Optimization</strong><br>
+      <em style="color: #4A4A4A;">Implementation of a MATLAB-based PSO algorithm to solve inverse optical problems by minimizing the mean-squared error between theoretical and experimental reflectivity. This method efficiently extracts anisotropic extinction coefficients, significantly reducing computation time compared to traditional grid search approaches.</em>
+    </p>
   </div>
 </div>
