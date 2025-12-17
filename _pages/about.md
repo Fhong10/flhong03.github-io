@@ -45,6 +45,15 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
   </div>
 </div>
 
+<div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
+  <div style="width: 150px; padding-right: 15px;">
+    <img src="{{ '/images/Berkeleylogo.png' | relative_url }}" alt="Berkeley_logo" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1;">
+    <p style="margin-top: 0;">
+      I was an exchange student at the University of California, Berkeley, from January 2023 to May 2024. During this period, I conducted research in Professor Feng Wang’s 2D Materials Laboratory.
+  </div>
+</div>
 
 
 Research
