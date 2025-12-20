@@ -13,7 +13,7 @@ Given a set of optical parameters, the algorithm computes theoretical reflectivi
 
 ## Grid search
 
-<img src="{{ '/images/gridsearch3.gif' | relative_url }}"
+<img src="{{ '/images/gridsearch5.gif' | relative_url }}"
      alt="PSO visulaization"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
