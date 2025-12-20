@@ -29,8 +29,8 @@ Stack (top → bottom): Laser is entering the bottom layer.
 <ul>
   <li>Full complex refractive index of PEDOT:PSS layer (N = n + i·k)
     <ul>
-      <li>PEDOT:PSS layer: N = 1.41 + i0.23 <strong>at 561 nm</strong></li>
-      <li>PEDOT:PSS layer: N = 1.40 + i0.35 <strong>at 658 nm</strong></li>
+      <li> <strong>at 561 nm</strong></li>, N = 1.41 + i0.23 
+      <li> <strong>at 658 nm</strong></li>, N = 1.40 + i0.35 
     </ul>
   </li>
 </ul>
