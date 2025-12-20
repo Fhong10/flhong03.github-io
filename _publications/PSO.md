@@ -17,9 +17,9 @@ Given a set of optical parameters, the algorithm computes theoretical reflectivi
      alt="PSO visulaization"
      style="max-width: 420px; width: 100%; height: auto; display: block; margin: 0 0 12px 0;">
 
- I first implemented a grid search in Python: reflectivity spectra are computed with the Transfer Matrix Method with optical parameters. If we fix these parameters, the mean squared errors (MSE) between theoretical reflectivity and measured reflectivity at each (n,k) is calculated. In the visualization, a white cursor walks the grid as each point is evaluated, and a red marker tracks the current best (lowest) MSE. However, the  computational time increased rapidly with the dimensionality of the parameter space, even exceeding 3 hours
+ I first implemented a grid search in Python: reflectivity spectra are computed with the Transfer Matrix Method. If we fix other optical parameters, the mean squared errors (MSE) between theoretical reflectivity and measured reflectivity at each (n,k) is calculated. In the visualization, <strong>a white cursor</strong> walks the grid as each point is evaluated, and <strong>a red marker</strong> tracks the current best (lowest) MSE. However, the  computational time increased rapidly with the dimensionality of the parameter space, even exceeding 3 hours
  
-Grid search yields corresponding result: 
+<strong>Grid search result:</strong> 
 
  <img src="{{ '/images/gridresult.png' | relative_url }}"
      alt="PSO visulaization"
