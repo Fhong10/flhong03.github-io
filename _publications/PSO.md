@@ -37,7 +37,7 @@ To reduce the computational time of grid search, I implemented particle swarm op
 This approach enabled efficient and robust fitting of optical parameters in anisotropic multilayer systems.
 
 <div class="pso-explainer" style="line-height: 1.35;">
-  <p style="margin: 0 0 8px 0;">The plot is a Particle Swarm Optimization (PSO) run on two parameters (n and k). Each white dot is a particle position; the red dot marks the global best candidate found; the yellow star marks the final selected solution. Iteration is 40 to find a best mean squared error (MSE) of 5.896×10⁻⁴.</p>
+  <p style="margin: 0 0 8px 0;">The plot is a Particle Swarm Optimization (PSO) run on two parameters (n and k). <strong>Each white dot</strong> is a particle position; <strong>the red dot</strong> marks the global best candidate found; <strong>the yellow star</strong> marks the final selected solution. Iteration is 40 to find a best mean squared error (MSE) of 5.896×10⁻⁴.</p>
   <p style="margin: 0 0 8px 0;">Color map: It encodes log10(MSE) of the objective over the (n, k) plane.</p>
   <p style="margin: 0 0 8px 0;">Blue/purple = lower MSE (better fit).</p>
   <p style="margin: 0 0 8px 0;">Yellow = higher MSE (worse fit).</p>
