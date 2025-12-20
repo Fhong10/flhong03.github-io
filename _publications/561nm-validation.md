@@ -27,13 +27,14 @@ Stack (top → bottom): Laser is entering the bottom layer.
   
 <p>Key parameters of the model:</p>
 <ul>
-  <li>Full complex refractive index handling (n + i·k)
+  <li>Full complex refractive index of PEDOT:PSS layer (N = n + i·k)
     <ul>
-      <li>PEDOT:PSS layer: n = 1.41 + i0.23 <strong>at 561 nm</strong></li>
-      <li>PEDOT:PSS layer: n = 1.40 + i0.35 <strong>at 658 nm</strong></li>
+      <li>PEDOT:PSS layer: N = 1.41 + i0.23 <strong>at 561 nm</strong></li>
+      <li>PEDOT:PSS layer: N = 1.40 + i0.35 <strong>at 658 nm</strong></li>
     </ul>
   </li>
 </ul>
+* Thickness of each layers: Water, PEDOT:PSS, ITO, SF-10 prism
 * Incident angle of beam
 * Polarization-selective(TE/s-polarization, TM/p-polarization)
 * Two wavelengthes comparison(561nm, 658nm)
