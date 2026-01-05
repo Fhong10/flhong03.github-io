@@ -10,12 +10,25 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
 
 1. Exfoliation of Graphene, 𝑆𝑛𝑆𝑒2, W𝑆𝑒2, WS2, MoSe2, hBN.
 
-
    <img src="{{ '/images/graphene2.png' | relative_url }}" alt="scimage"
-    style="max-width: 48%; height: auto; display: inline-block; vertical-align: middle; margin: 12px 1% 0 0;">
-    
+    style="max-width: 220px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+
+Graphene for the gates
+
    <img src="{{ '/images/hBN_100.jpg' | relative_url }}" alt="scimage"
-    style="max-width: 48%; height: auto; display: inline-block; vertical-align: middle; margin: 12px 0 0 0;">
+    style="max-width: 220px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;"> 
+
+hBN for Insulation layer
+    
+   <img src="{{ '/images/WSe2_100.jpg' | relative_url }}" alt="scimage"
+    style="max-width: 220px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+
+One of TMDs for the heterostructure.
+
+   <img src="{{ '/images/graphene_contact.jpg' | relative_url }}" alt="scimage"
+    style="max-width: 220px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;"> 
+
+This is another channel for electrical current.  
      
 2. Transfer stage to stack layer by layer device.
 
@@ -27,7 +40,7 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
    <img src="{{ '/images/lithography2.jpg' | relative_url }}" alt="scimage"
     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
    
-4. Using gole evaporator to lay gold circuit.
+4. Using gold evaporator to lay gold circuit.
 
    <img src="{{ '/images/gold.jpg' | relative_url }}" alt="scimage"
     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
