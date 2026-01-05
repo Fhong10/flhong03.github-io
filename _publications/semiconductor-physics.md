@@ -27,8 +27,8 @@ One of TMDs for the heterostructure.
 
    <img src="{{ '/images/graphene_contact.jpg' | relative_url }}" alt="scimage"
     style="max-width: 220px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;"> 
-
-This is another channel for electrical current.  
+    
+This is graphene contact to tune doping within the device.   
      
 2. Transfer stage to stack layer by layer device.
 
