@@ -8,7 +8,7 @@ excerpt: "Fabrication of Heterostructural Devices."
 ## Process of Fabrication
 I underwent progresses such as exfoliation of 2D materials, transfer stage, photolithography, gold evaporator, and optical measurement.
 
-1. Exfoliation of 2D materials
+### Exfoliation of 2D materials
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
@@ -38,17 +38,17 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
 
 </div>
      
-2. Transfer stage to stack layer by layer device.
+### Transfer stage to stack layer by layer device.
 
    <img src="{{ '/images/transfer2.jpeg' | relative_url }}" alt="scimage"
     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
      
-3. Photolithograph to build pathway for gold circuit.
+### Photolithograph to build pathway for gold circuit.
 
    <img src="{{ '/images/lithography2.jpg' | relative_url }}" alt="scimage"
     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
    
-4. Using gold evaporator to lay gold circuit.
+### Using gold evaporator to lay gold circuit.
 
    <img src="{{ '/images/gold.jpg' | relative_url }}" alt="scimage"
     style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
