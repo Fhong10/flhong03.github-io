@@ -12,9 +12,10 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
 
 
    <img src="{{ '/images/graphene2.png' | relative_url }}" alt="scimage"
-    style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+    style="max-width: 48%; height: auto; display: inline-block; vertical-align: middle; margin: 12px 1% 0 0;">
+    
    <img src="{{ '/images/hBN_100.jpg' | relative_url }}" alt="scimage"
-    style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+    style="max-width: 48%; height: auto; display: inline-block; vertical-align: middle; margin: 12px 0 0 0;">
      
 2. Transfer stage to stack layer by layer device.
 
