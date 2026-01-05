@@ -8,27 +8,33 @@ excerpt: "Fabrication of Heterostructural Devices."
 ## Process of Fabrication
 I underwent progresses such as exfoliation of 2D materials, transfer stage, photolithography, gold evaporator, and optical measurement.
 
-1. Exfoliation of Graphene, 𝑆𝑛𝑆𝑒2, W𝑆𝑒2, WS2, MoSe2, hBN.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
-   <img src="{{ '/images/graphene2.png' | relative_url }}" alt="scimage"
-    style="max-width: 220px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+    <div style="width: 220px; text-align: center;">
+        <p style="margin-bottom: 5px; font-weight: bold;">Graphene for the gates</p>
+        <img src="{{ '/images/graphene2.png' | relative_url }}" alt="Graphene"
+             style="width: 100%; height: auto; border-radius: 4px;">
+    </div>
 
-Graphene for the gates
+    <div style="width: 220px; text-align: center;">
+        <p style="margin-bottom: 5px; font-weight: bold;">hBN for Insulation</p>
+        <img src="{{ '/images/hBN_100.jpg' | relative_url }}" alt="hBN"
+             style="width: 100%; height: auto; border-radius: 4px;">
+    </div>
 
-   <img src="{{ '/images/hBN_100.jpg' | relative_url }}" alt="scimage"
-    style="max-width: 220px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;"> 
-
-hBN for Insulation layer
+    <div style="width: 220px; text-align: center;">
+        <p style="margin-bottom: 5px; font-weight: bold;">TMD (Heterostructure)</p>
+        <img src="{{ '/images/WSe2_100.jpg' | relative_url }}" alt="TMD"
+             style="width: 100%; height: auto; border-radius: 4px;">
+    </div>
     
-   <img src="{{ '/images/WSe2_100.jpg' | relative_url }}" alt="scimage"
-    style="max-width: 220px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+     <div style="width: 220px; text-align: center;">
+        <p style="margin-bottom: 5px; font-weight: bold;">Graphene Contact</p>
+        <img src="{{ '/images/graphene_contact.jpg' | relative_url }}" alt="Contact"
+             style="width: 100%; height: auto; border-radius: 4px;">
+    </div>
 
-One of TMDs for the heterostructure.
-
-   <img src="{{ '/images/graphene_contact.jpg' | relative_url }}" alt="scimage"
-    style="max-width: 220px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;"> 
-    
-This is graphene contact to tune doping within the device.   
+</div>
      
 2. Transfer stage to stack layer by layer device.
 
