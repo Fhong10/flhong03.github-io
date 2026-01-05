@@ -22,6 +22,10 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
     <br>
     <p style="margin-top: 5px;">
       I validated my custom Python Transfer Matrix Method (TMM) tool by reproducing reflectivity behavior at 561nm & 658nm wavelengths and comparing against reference results.
+    <br>  
+      <span style="font-style: italic; color: #666; font-size: 1.1em;">
+        * The project took place in <strong>Professor Peter Zhou's lab at UIUC</strong>.
+      </span>
     </p>
     <a href="{{ '/research/project-1/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
   </div>
@@ -63,7 +67,7 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
     <p style="margin-top: 5px;">
       Hands-on fabrication of van der Waals heterostructure devices using exfoliation, transfer stacking, photolithography, and Au deposition, followed by reflectance spectroscopy to probe excitonic resonances under electrostatic gating.
     <br>
-      <span style="font-style: italic; color: #666; font-size: 0.9em;">
+      <span style="font-style: italic; color: #666; font-size: 1.1em;">
         * The project took place in <strong>Professor Feng Wang's lab at UC Berkeley</strong>.
       </span>
     </p>
