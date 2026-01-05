@@ -8,6 +8,8 @@ excerpt: "Fabrication of Heterostructural Devices."
 ## Process of Fabrication
 I underwent progresses such as exfoliation of 2D materials, transfer stage, photolithography, gold evaporator, and optical measurement.
 
+1. Exfoliation of 2D materials
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-start;">
 
     <div style="width: 220px; text-align: center;">
@@ -23,13 +25,13 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
     </div>
 
     <div style="width: 220px; text-align: center;">
-        <p style="margin-bottom: 5px; font-weight: bold;">TMD (Heterostructure)</p>
+        <p style="margin-bottom: 5px; font-weight: bold;"> WSe2_TMDs for Heterostructure</p>
         <img src="{{ '/images/WSe2_100.jpg' | relative_url }}" alt="TMD"
              style="width: 100%; height: auto; border-radius: 4px;">
     </div>
     
      <div style="width: 220px; text-align: center;">
-        <p style="margin-bottom: 5px; font-weight: bold;">Graphene Contact</p>
+        <p style="margin-bottom: 5px; font-weight: bold;">Graphene Contact for modulation of doping</p>
         <img src="{{ '/images/graphene_contact.jpg' | relative_url }}" alt="Contact"
              style="width: 100%; height: auto; border-radius: 4px;">
     </div>
