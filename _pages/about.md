@@ -12,7 +12,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 <hr>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 160px; padding-right: 16px;">
+  <div style="width: 130px; padding-right: 16px;">
     <img src="{{ '/images/neuronsignal.png' | relative_url }}" alt="neuronsignal" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
@@ -23,7 +23,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 160px; padding-right: 16px;">
+  <div style="width: 130px; padding-right: 16px;">
     <img src="{{ '/images/uiuclogo.png' | relative_url }}" alt="uiuc_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
@@ -35,7 +35,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 10px;">
-  <div style="width: 150px; padding-right: 15px;">
+  <div style="width: 120px; padding-right: 15px;">
     <img src="{{ '/images/yonseilogo.png' | relative_url }}" alt="yonsei_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
@@ -46,7 +46,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 30px;">
-  <div style="width: 150px; padding-right: 15px;">
+  <div style="width: 120px; padding-right: 15px;">
     <img src="{{ '/images/Berkeleylogo.png' | relative_url }}" alt="Berkeley_logo" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
@@ -58,7 +58,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 ## Research
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 160px; padding-right: 16px; flex-shrink: 0;">
+  <div style="width: 200px; padding-right: 16px; flex-shrink: 0;">
     <img src="{{ '/images/simulation.png' | relative_url }}" alt="561nm Graph"
          style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
@@ -71,7 +71,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 160px; padding-right: 16px; flex-shrink: 0;">
+  <div style="width: 200px; padding-right: 16px; flex-shrink: 0;">
     <img src="{{ '/images/Absorbance2.png' | relative_url }}" alt="Absorbance Graph"
          style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
@@ -84,7 +84,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 160px; padding-right: 16px; flex-shrink: 0;">
+  <div style="width: 200px; padding-right: 16px; flex-shrink: 0;">
     <img src="{{ '/images/scimage.png' | relative_url }}" alt="scimage"
          style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
@@ -97,7 +97,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
 </div>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 160px; padding-right: 16px; flex-shrink: 0;">
+  <div style="width: 200px; padding-right: 16px; flex-shrink: 0;">
     <img src="{{ '/images/PSOimage.png' | relative_url }}" alt="Particle Swarm Optimization"
          style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
   </div>
