@@ -11,12 +11,12 @@ Please click on * [Read full report] to see the detailed information.
 <hr>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 30%; padding-right: 15px;">
+  <div style="width: 30%; padding-right: 17px;">
     <a href="{{ '/research/project-1/' | relative_url }}">
       <img src="{{ '/images/simulation.png' | relative_url }}" alt="561nm Graph" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     </a>
   </div>
-  <div style="width: 70%; font-size: 15px;">
+  <div style="width: 70%; font-size: 18px;">
     <a href="{{ '/research/project-1/' | relative_url }}" style="text-decoration: none;">
       <strong style="font-size: 18px; color: #333;">Algorithm Validation: 561nm and 658nm Target</strong>
     </a>
@@ -35,12 +35,12 @@ Please click on * [Read full report] to see the detailed information.
 <hr>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 30%; padding-right: 15px;">
+  <div style="width: 30%; padding-right: 17px;">
     <a href="{{ '/research/project-2/' | relative_url }}">
       <img src="{{ '/images/Absorbance2.png' | relative_url }}" alt="Absorbance Graph" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     </a>
   </div>
-  <div style="width: 70%; font-size: 15px;">
+  <div style="width: 70%; font-size: 18px;">
     <a href="{{ '/research/project-2/' | relative_url }}" style="text-decoration: none;">
       <strong style="font-size: 18px; color: #333;">Optical Absorbance Analysis</strong>
     </a>
@@ -59,12 +59,12 @@ Please click on * [Read full report] to see the detailed information.
 <hr>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 30%; padding-right: 15px;">
+  <div style="width: 30%; padding-right: 17px;">
     <a href="{{ '/research/project-3/' | relative_url }}">
       <img src="{{ '/images/scimage.png' | relative_url }}" alt="semiconductor" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     </a>
   </div>
-  <div style="width: 70%; font-size: 15px;">
+  <div style="width: 70%; font-size: 18px;">
     <a href="{{ '/research/project-3/' | relative_url }}" style="text-decoration: none;">
       <strong style="font-size: 18px; color: #333;">2D Heterostructure Device Fabrication</strong>
     </a>
@@ -83,12 +83,12 @@ Please click on * [Read full report] to see the detailed information.
 <hr>
 
 <div style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 20px;">
-  <div style="width: 30%; padding-right: 15px;">
+  <div style="width: 30%; padding-right: 17px;">
     <a href="{{ '/research/project-4/' | relative_url }}">
       <img src="{{ '/images/PSOimage.png' | relative_url }}" alt="Semiconductor Image" style="max-width: 100%; height: auto; border: 1px solid #e0e0e0; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     </a>
   </div>
-  <div style="width: 70%; font-size: 15px;">
+  <div style="width: 70%; font-size: 18px;">
     <a href="{{ '/research/project-4/' | relative_url }}" style="text-decoration: none;">
       <strong style="font-size: 18px; color: #333;">Particle Swarm Optimization</strong>
     </a>
