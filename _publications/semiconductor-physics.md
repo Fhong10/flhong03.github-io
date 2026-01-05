@@ -8,10 +8,25 @@ excerpt: "Fabrication of Heterostructural Devices."
 ## Process of Fabrication
 I underwent progresses such as exfoliation of 2D materials, transfer stage, photolithography, gold evaporator, and optical measurement.
 
-1. I exfoliated Graphene, 𝑆𝑛𝑆𝑒2, W𝑆𝑒2, WS2, MoSe2, hBN.
-2. Then I used transfer stage to stack layer by layer device.
-3. I used photolithograph to build pathway for gold circuit.
-4. Using gole evaporator I laid gold circuit.
+1. Exfoliation of Graphene, 𝑆𝑛𝑆𝑒2, W𝑆𝑒2, WS2, MoSe2, hBN.
+
+   <img src="{{ '/images/graphene2.png' | relative_url }}" alt="scimage"
+    style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+     
+2. Transfer stage to stack layer by layer device.
+
+   <img src="{{ '/images/transfer2.jpeg' | relative_url }}" alt="scimage"
+    style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+     
+3. Photolithograph to build pathway for gold circuit.
+
+   <img src="{{ '/images/lithography2.jpg' | relative_url }}" alt="scimage"
+    style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+   
+4. Using gole evaporator to lay gold circuit.
+
+   <img src="{{ '/images/gold.jpg' | relative_url }}" alt="scimage"
+    style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
 
 
 ## MoSe2/WS2 Heterostructure Device
