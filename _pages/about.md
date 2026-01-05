@@ -51,7 +51,8 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
   </div>
   <div style="flex: 1;">
     <p style="margin-top: 0;">
-      I was an exchange student at the University of California, Berkeley, from January 2023 to May 2024. During this period, I conducted research in Professor <strong>Feng Wang</strong>’s 2D Materials Laboratory.
+      I was an exchange student at the University of California, Berkeley, from January 2023 to May 2024. During this period, I conducted research in <br>
+      Professor <strong>Feng Wang</strong>’s 2D Materials Laboratory.
     </p> </div>
 </div>
 
