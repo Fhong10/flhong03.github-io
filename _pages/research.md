@@ -61,7 +61,11 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
     </a>
     <br>
     <p style="margin-top: 5px;">
-      Hands-on fabrication of van der Waals heterostructure devices using exfoliation, transfer stacking, photolithography, and Au deposition, followed by reflectance spectroscopy to probe excitonic resonances under electrostatic gating.
+      Hands-on fabrication of van der Waals heterostructure devices using exfoliation, transfer stacking, photolithography, and Au deposition, followed by reflectance spectroscopy to probe excitonic resonances under electrostatic gating. The project took place in Feng Wang's lab at UC Berkeley.
+    <br>
+      <span style="font-style: italic; color: #666; font-size: 0.9em;">
+        * The project took place in Feng Wang's lab at UC Berkeley.
+      </span>
     </p>
     <a href="{{ '/research/project-3/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
   </div>
