@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-Here is a summary of my work in optical simulation and hands-on fabrication experience. Click on any project to see the detailed information.
+Here is a summary of my work in optical simulation and hands-on fabrication experience. <br>
+Please click on * [Read full report] to see the detailed information.
 
 <hr>
 
