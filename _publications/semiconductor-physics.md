@@ -10,12 +10,11 @@ I underwent progresses such as exfoliation of 2D materials, transfer stage, phot
 
 1. Exfoliation of Graphene, 𝑆𝑛𝑆𝑒2, W𝑆𝑒2, WS2, MoSe2, hBN.
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 12px 0;">
-  <img src="{{ '/images/graphene2.png' | relative_url }}" alt="scimage"
-    style="max-width: 420px; width: 100%; height: auto; flex: 1 1 300px;">
-  <img src="{{ '/images/hBN_100.jpg' | relative_url }}" alt="scimage"
-    style="max-width: 420px; width: 100%; height: auto; flex: 1 1 300px;">
-</div>
+
+   <img src="{{ '/images/graphene2.png' | relative_url }}" alt="scimage"
+    style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
+   <img src="{{ '/images/hBN_100.jpg' | relative_url }}" alt="scimage"
+    style="max-width: 420px; width: 100%; height: auto; display: block; margin: 12px 0 0 0;">
      
 2. Transfer stage to stack layer by layer device.
 
