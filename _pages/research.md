@@ -46,7 +46,11 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
     <br>
     <p style="margin-top: 5px;">
       I calculated the voltage- and wavelength-dependent in-plane extinction coefficient k of PEDOT:PSS fne component using the Beer-Lambert law. I converted absorbance into extinction coefficients.
-    </p>
+    <br>  
+      <span style="font-style: italic; color: #666; font-size: 1.1em;">
+        * The project took place in <strong>Professor Peter Zhou's lab at UIUC</strong>.
+      </span>
+    </p>    
     <a href="{{ '/research/project-2/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
   </div>
 </div>
@@ -90,6 +94,10 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
     <br>
     <p style="margin-top: 5px;">
       Extract anisotropic optical constants (in-plane/out-of-plane) of PEDOT:PSS from ECORE-measured s-/p- polarized light reflectivity using particle swarm optimization.
+    <br>  
+      <span style="font-style: italic; color: #666; font-size: 1.1em;">
+        * The project took place in <strong>Professor Peter Zhou's lab at UIUC</strong>.
+      </span>
     </p>
     <a href="{{ '/research/project-4/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
   </div>
