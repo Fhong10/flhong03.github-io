@@ -24,7 +24,7 @@ Please click on * [Read full report] to see the detailed information.
     <p style="margin-top: 5px;">
       I validated my custom Python Transfer Matrix Method (TMM) tool by reproducing reflectivity behavior at 561nm & 658nm wavelengths and comparing against reference results.
     <br>  
-      <span style="font-style: italic; color: #666; font-size: 1.0em;">
+      <span style="font-style: italic; color: #666; font-size: 0.9em;">
         * The project took place in <strong>Professor Peter Zhou</strong>'s lab at UIUC.
       </span>
     </p>
@@ -72,7 +72,7 @@ Please click on * [Read full report] to see the detailed information.
     <p style="margin-top: 5px;">
       Hands-on fabrication of van der Waals heterostructure devices using exfoliation, transfer stacking, photolithography, and Au deposition, followed by reflectance spectroscopy to probe excitonic resonances under electrostatic gating.
     <br>
-      <span style="font-style: italic; color: #666; font-size: 1.0em;">
+      <span style="font-style: italic; color: #666; font-size: 0.9em;">
         * The project took place in <strong>Professor Feng Wang's lab at UC Berkeley</strong>.
       </span>
     </p>
