@@ -29,7 +29,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
   <div style="flex: 1;">
     <p style="margin-top: 0;">
       I am a Master's student in Materials Science and Engineering at the University of Illinois at Urbana-Champaign (UIUC).<br>
-      My advisor is Yuecheng Peter Zhou.
+      My advisor is Professor <strong>Yuecheng Peter Zhou</strong>.
     </p>
   </div>
 </div>
@@ -51,7 +51,7 @@ Welcome to my academic portfolio. Below is an overview of my current research fo
   </div>
   <div style="flex: 1;">
     <p style="margin-top: 0;">
-      I was an exchange student at the University of California, Berkeley, from January 2023 to May 2024. During this period, I conducted research in Professor Feng Wang’s 2D Materials Laboratory.
+      I was an exchange student at the University of California, Berkeley, from January 2023 to May 2024. During this period, I conducted research in Professor <strong>Feng Wang</strong>’s 2D Materials Laboratory.
     </p> </div>
 </div>
 
