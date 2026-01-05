@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to my academic portfolio. Below is an overview of my current research focus and academic background.
-For mroe details, please click Research in the top menu to view the details.
+For more details, <strong>please click Research in the top menu</strong> to view the details.
 
 <hr>
 
