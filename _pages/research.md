@@ -24,7 +24,7 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
       I validated my custom Python Transfer Matrix Method (TMM) tool by reproducing reflectivity behavior at 561nm & 658nm wavelengths and comparing against reference results.
     <br>  
       <span style="font-style: italic; color: #666; font-size: 1.1em;">
-        * The project took place in <strong>Professor Peter Zhou's lab at UIUC</strong>.
+        * The project took place in <strong>Professor Peter Zhou</strong>'s lab at UIUC.
       </span>
     </p>
     <a href="{{ '/research/project-1/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
@@ -47,8 +47,8 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
     <p style="margin-top: 5px;">
       I calculated the voltage- and wavelength-dependent in-plane extinction coefficient k of PEDOT:PSS fne component using the Beer-Lambert law. I converted absorbance into extinction coefficients.
     <br>  
-      <span style="font-style: italic; color: #666; font-size: 1.1em;">
-        * The project took place in <strong>Professor Peter Zhou's lab at UIUC</strong>.
+      <span style="font-style: italic; color: #666; font-size: 1.0em;">
+        * The project took place in Professor Peter Zhou's lab at UIUC.
       </span>
     </p>    
     <a href="{{ '/research/project-2/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
@@ -95,8 +95,8 @@ Here is a summary of my work in optical simulation and hands-on fabrication expe
     <p style="margin-top: 5px;">
       Extract anisotropic optical constants (in-plane/out-of-plane) of PEDOT:PSS from ECORE-measured s-/p- polarized light reflectivity using particle swarm optimization.
     <br>  
-      <span style="font-style: italic; color: #666; font-size: 1.1em;">
-        * The project took place in <strong>Professor Peter Zhou's lab at UIUC</strong>.
+      <span style="font-style: italic; color: #666; font-size: 1.0em;">
+        * The project took place in Professor Peter Zhou's lab at UIUC.
       </span>
     </p>
     <a href="{{ '/research/project-4/' | relative_url }}" style="font-weight: bold;">[Read Full Report]</a>
